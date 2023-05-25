@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script>
+
+  function show_alert() {
+    if ( confirm("Voce realmente quer atualizar?") == false ) {
+      return false ;
+    } else {
+      return true ;
+    }
+  }
+
+</script>
+
+</head>
+<body>
+
+    <form name="myform" action="/update" method="POST" onsubmit="return show_alert();">
+       
+    </form>
+
+    <script type="text/javascript">
+       document.myform.submit();
+    </script>
+
+</body>
+</html>

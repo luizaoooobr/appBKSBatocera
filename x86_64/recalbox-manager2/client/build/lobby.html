@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My CRUD in NodeJS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 7px 17px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  background-color: #ddd;
+  padding: 7px;
+  height: 420px; /* Should be removed. Only for demonstration */
+}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+.btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 4px 15px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+</style>
+
+<script>
+
+  function show_alert() {
+    if ( confirm("Voce realmente quer atualizar?") == false ) {
+      return false ;
+    } else {
+      return true ;
+    }
+  }
+
+</script>
+
+
+</head>
+<body>
+
+<div class="topnav" aling="center">
+
+   <a href="index.html"><img src="pv3.png" alt="v3" width=100 height=80></a> 
+   <a href="#">Atualizador de Emuladores(Cores)<h2></a>
+ 
+</div>
+<div class="content">
+    <div class="btn-group"> 
+    Download Automatico e Atualizar 
+    <!--<form action="/show200" method="POST" onsubmit="return show_alert();">    
+         <input type="hidden" id="show" name="show" value="show19">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao FBNEO"> 
+         <button type="submit">fbneo</button>        
+    </form> -->
+    
+     <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show400">       
+         <!-- <input type="hidden" id="acao" name="acao" value="Atualizacao fbalpha2012"> -->
+         <input type="hidden" id="acao" name="acao" value="Atualizacao FBNEOBKS">
+         <button type="submit">fbneo Arch64</button>        
+    </form>
+    </div>
+    <br>
+    <div class="btn-group">
+    <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show20">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao Snes9x">
+         <button type="submit">snes9x Arch64</button>        
+    </form>
+    </div>
+    <br>
+    <!--<form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show77">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbalpha2012"> 
+         <button type="submit">fba2012</button>        
+    </form>
+    </div>-->       
+ 
+    <!--<div class="btn-group">     
+    Atualizar Manualmente <form action="/show" method="POST" onsubmit="return show_alert();">
+         <button type="submit">Cores Baixados no Retroarch</button>        
+    </form>
+    </div>-->
+<!--  <div class="btn-group">
+      RB 6.0  <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show2">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo 2.97.44 8ffdef58cf"> 
+         <button type="submit" >fbaneo 2.97.44 8ffdef58cf</button>        
+       
+    </form>
+    </div> -->
+  
+    <!--<div class="btn-group">
+     RB 6.1 <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show3">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo 2.97.44 25c5a8b4de">
+         <button type="submit">fbneo 2.97.44 25c5a8b4de</button>        
+   
+    </form>
+    </div>-->
+    
+    <div class="btn-group">
+    Batocera Arch64 Base <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show44">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo (v1.0.0.1)">
+         <button type="submit">fbneo fbaneo (v1.0.0.1)</button>        
+   
+    </form> 
+     </div>
+     <br>
+    <!--
+    <div class="btn-group">
+     RB 7.1 <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show65">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo 2.97.44 d8e3500e22">
+         <button type="submit">fbneo 2.97.44 d8e3500e22</button>         
+   
+    </form> 
+    </div>
+    
+    <div class="btn-group">
+     RB 7.1.1 Reload
+      <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show110">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo v1.0.0.01 0059ab3b28">
+         <button type="submit">fbneo v1.0.0.01 0059ab3b28</button>         
+   
+    </form> 
+    </div>
+    
+    <div class="btn-group">
+      RB 7.2 <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show2">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo v1.0.0.01 563dc690ec"> 
+         <button type="submit" >fbneo v1.0.0.01 563dc690ec</button>        
+       
+    </form>
+    </div>
+    
+    <div class="btn-group">
+      BT5.29 <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show401">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbaneo v1.0.0.01 eab2508e6"> 
+         <button type="submit" >fbneo v1.0.0.01 eab2508e6</button>        
+       
+    </form>
+    </div>
+    
+    <div class="btn-group">
+     RB 7.1 <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show79">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao fbalpha2012 RB7.1">
+         <button type="submit">fbalpha2012 7.1</button>         
+         </form>
+    </div>
+    
+    <div class="btn-group"> 
+     RB 6.0/6.1/7.0/7.1 <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show4">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao Snes9x 1.7.8"> 
+         <button type="submit">Snes9x 1.7.8</button>        
+   
+    </form>
+
+    <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show5">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao Snes9x 1.8.1">
+         <button type="submit">Snes9x 1.8.1</button>        
+   
+    </form>
+    <!--<form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show45">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao Snes9x 7.0">
+         <button type="submit">Snes9x 7.0</button>        
+              
+    </form> -->
+    <div class="btn-group">
+    
+    <form action="/show200" method="POST" onsubmit="return show_alert();">
+         <input type="hidden" id="show" name="show" value="show66">
+         <input type="hidden" id="acao" name="acao" value="Atualizacao Snes9x (v1.0.0.1)">
+         <button type="submit">Snes9x (v1.0.0.1)</button>        
+   
+    </form>
+    </div>
+    
+</div>
+  
+<div class="topnav">
+   
+   <img src="bks2.png" alt="v3" width=350 height=120><br>
+   <a href="#">Todos direitos Reservados<h2></a>
+</div>
+</body>
+</html>

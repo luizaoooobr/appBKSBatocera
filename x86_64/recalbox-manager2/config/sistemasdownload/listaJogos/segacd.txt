@@ -1,0 +1,351 @@
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/%281994%29%28Absolute%20Entertainment%29%28NTSC%29%28US%29%5BSEGAT86015RE%20R1J%5D.bin|(1994)(Absolute Entertainment)(NTSC)(US)[SEGAT86015RE R1J].bin|1996-12-25 04:32:00| size|630427728| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/%281994%29%28Absolute%20Entertainment%29%28NTSC%29%28US%29%5BSEGAT86015RE%20R1J%5D.cue|(1994)(Absolute Entertainment)(NTSC)(US)[SEGAT86015RE R1J].cue|1996-12-25 04:32:00| size|216| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/00_BRIEFIN1.RED.wav|00_BRIEFIN1.RED.wav|2017-07-13 06:43:52| size|17004776| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/3%20Ninjas%20Kick%20Back%20%28U%29.bin|3 Ninjas Kick Back (U).bin|2018-03-25 15:12:07| size|351821568| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Amazing_Spider-Man_Vs_The_Kingpin%28US-Genesis%29.BIN|Amazing_Spider-Man_Vs_The_Kingpin(US-Genesis).BIN|1996-12-25 05:32:00| size|555815232| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/DUNGEONS%20%26%20DRAGONS%20EYE%20OF%20THE%20BEHOLDER.BIN|DUNGEONS &amp; DRAGONS EYE OF THE BEHOLDER.BIN|1996-12-25 04:32:00| size|553390320| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Dungeons%20%26%20Dragons%20Eye%20of%20the%20Beholder.cue|Dungeons &amp; Dragons Eye of the Beholder.cue|1996-12-25 04:32:00| size|3631| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Ninjas%20Kick%20Back%20%28U%29.cue|Ninjas Kick Back (U).cue|2008-07-15 00:14:55| size|813| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Of%20Batman%20%26%20Robin%20%28Sega%20CD%29%20%28U%29-redump.bin|Of Batman &amp; Robin (Sega CD) (U)-redump.bin|1996-12-25 05:32:00| size|312907728| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Of%20Batman%20%26%20Robin%20%28Sega%20CD%29%20%28U%29-redump.cue|Of Batman &amp; Robin (Sega CD) (U)-redump.cue|1996-12-25 05:32:00| size|539| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Of%20Willy%20Beamish%20%28Sega%20CD%29%20%28U%29.bin|Of Willy Beamish (Sega CD) (U).bin|1996-12-25 04:32:00| size|327026784| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Of%20Willy%20Beamish%20%28Sega%20CD%29%20%28U%29.cue|Of Willy Beamish (Sega CD) (U).cue|1996-12-25 04:32:00| size|1091| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/THUNDERSTRIKE%20%28U%29.BIN|THUNDERSTRIKE (U).BIN|1996-12-25 04:32:00| size|475760208| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/The%20%281994%29%28The%20Software%20Toolworks%29%28NTSC%29%28US%29%5BCDAC-064100%202%5D.bin|The (1994)(The Software Toolworks)(NTSC)(US)[CDAC-064100 2].bin|1996-12-25 05:32:00| size|696855264| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/The%20%281994%29%28The%20Software%20Toolworks%29%28NTSC%29%28US%29%5BCDAC-064100%202%5D.cue|The (1994)(The Software Toolworks)(NTSC)(US)[CDAC-064100 2].cue|1996-12-25 05:32:00| size|197| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-1-A.7z/Thunderstrike%20%28U%29.cue|Thunderstrike (U).cue|1996-12-25 04:32:00| size|790| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/||1996-12-25 05:32:00| size|3211| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/%281995%29%28Acclaim%29%28EU%29%20%5BT-88045-50%5D.cue|(1995)(Acclaim)(EU) [T-88045-50].cue|1996-12-25 04:32:00| size|9745| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/%281995%29%28Acclaim%29%28EU%29%20%5BT-88045-50%5D.img|(1995)(Acclaim)(EU) [T-88045-50].img|1996-12-25 04:32:00| size|599600064| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/%28U%29.BIN|(U).BIN|1996-12-25 05:32:00| size|438629184| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/%28U%29.cue|(U).cue|1996-12-25 05:32:00| size|588| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/-%20Gray%20Death%20Legion%20%282007%29%28Good%20Deal%20Games%29%28US%29.cue|- Gray Death Legion (2007)(Good Deal Games)(US).cue|1996-12-25 04:32:00| size|977| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/-%20Gray%20Death%20Legion%20%282007%29%28Good%20Deal%20Games%29%28US%29.img|- Gray Death Legion (2007)(Good Deal Games)(US).img|1996-12-25 04:32:00| size|137568480| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/-%20Paws%20of%20Fury%20%28U%29.BIN|- Paws of Fury (U).BIN|1996-12-25 04:32:00| size|420866880| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/-%20Paws%20of%20Fury%20%28U%29.cue|- Paws of Fury (U).cue|1996-12-25 04:32:00| size|1021| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/BATTLECORPS.BIN|BATTLECORPS.BIN|1996-12-25 05:32:00| size|606910080| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Blasters%20-%20The%20Exterminators%20%282000%29%28Good%20Deal%20Games%29%28NTSC%29%28US%29%28Track%201%20of%202%29.iso|Blasters - The Exterminators (2000)(Good Deal Games)(NTSC)(US)(Track 1 of 2).iso|1996-12-25 04:32:00| size|492976128| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Blasters%20-%20The%20Exterminators%20%282000%29%28Good%20Deal%20Games%29%28NTSC%29%28US%29.cue|Blasters - The Exterminators (2000)(Good Deal Games)(NTSC)(US).cue|1996-12-25 04:32:00| size|329| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Bram%20Stoker%27s%20Dracula%20%28combo%20pack%202.0%20version%29%20%28U%29.bin|Bram Stoker's Dracula (combo pack 2.0 version) (U).bin|1996-12-25 05:32:00| size|446976432| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Bug%20Blasters%20-%20The%20Exterminators%20%282000%29%28Good%20Deal%20Games%29%28NTSC%29%28US%29%28Track%202%20of%202%29.wav|Bug Blasters - The Exterminators (2000)(Good Deal Games)(NTSC)(US)(Track 2 of 2).wav|1996-12-25 04:32:00| size|39036188| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Fists%20%28USA%29%20%28DW0298%29.bin|Fists (USA) (DW0298).bin|2011-10-12 17:00:50| size|475993056| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Fists%20%28USA%29%20%28DW0298%29.cue|Fists (USA) (DW0298).cue|2011-10-16 03:09:06| size|607| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Frenzy%20%282003%29%28Good%20Deal%20Games%29%28US%29%20-%20%5B0%5D.cue|Frenzy (2003)(Good Deal Games)(US) - [0].cue|1996-12-25 06:32:00| size|7590| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Frenzy%20%282003%29%28Good%20Deal%20Games%29%28US%29%20-%20%5B0%5D.img|Frenzy (2003)(Good Deal Games)(US) - [0].img|1996-12-25 06:32:00| size|590182656| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Hole%20Assault%20%281992%29%28Bignet%29%28NTSC%29%28US%29%5BCDAC-031700%201%5D.bin|Hole Assault (1992)(Bignet)(NTSC)(US)[CDAC-031700 1].bin|1996-12-25 05:32:00| size|533727600| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Hole%20Assault%20%281992%29%28Bignet%29%28NTSC%29%28US%29%5BCDAC-031700%201%5D.cue|Hole Assault (1992)(Bignet)(NTSC)(US)[CDAC-031700 1].cue|1996-12-25 05:32:00| size|1093| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Returns%20%28Sega%20CD%29%20%28U%29.bin|Returns (Sega CD) (U).bin|1996-12-25 05:32:00| size|527137296| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Returns%20%28Sega%20CD%29%20%28U%29.cue|Returns (Sega CD) (U).cue|1996-12-25 05:32:00| size|1498| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Stoker%27s%20Dracula%20%28combo%20pack%202.0%20version%29%20%28U%29.cue|Stoker's Dracula (combo pack 2.0 version) (U).cue|1996-12-25 05:32:00| size|479| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Walsh%20College%20Football%20%28U%29.bin|Walsh College Football (U).bin|1996-12-25 04:32:00| size|264244848| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-B.7z/Walsh%20College%20Football%20%28U%29.cue|Walsh College Football (U).cue|1996-12-25 04:32:00| size|733| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/%26%20Dinosaurs%20-%20The%20Second%20Cataclysm%20%28U%29.BIN|&amp; Dinosaurs - The Second Cataclysm (U).BIN|1996-12-25 05:32:00| size|653075136| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/%26%20Dinosaurs%20-%20The%20Second%20Cataclysm%20%28U%29.cue|&amp; Dinosaurs - The Second Cataclysm (U).cue|1996-12-25 05:32:00| size|212| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/%28u%29.bin|(u).bin|1996-12-25 05:32:00| size|330180816| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/%28u%29.cue|(u).cue|1996-12-25 05:32:00| size|505| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/009%20%281993%29%28Riot%29%28JP%29%20%5BT-49054%5D.cue|009 (1993)(Riot)(JP) [T-49054].cue|1996-12-25 04:32:00| size|18524| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/COLORS%20OF%20MODERN%20ROCK%2C%20THE%20%28U%29.BIN|COLORS OF MODERN ROCK, THE (U).BIN|1996-12-25 05:32:00| size|165830112| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Command%20%28Sega%20CD%29%20%28U%29.bin|Command (Sega CD) (U).bin|1996-12-25 05:32:00| size|258348384| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Command%20%28Sega%20CD%29%20%28U%29.cue|Command (Sega CD) (U).cue|1996-12-25 05:32:00| size|167| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Cyborg%20009%20%281993%29%28Riot%29%28JP%29%20%5BT-49054%5D.img|Cyborg 009 (1993)(Riot)(JP) [T-49054].img|1996-12-25 04:32:00| size|517614048| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Interactive%20Encyclopedia%20%281994%29%28Compton%27s%20NewMedia%29%28NTSC%29%28US%29%5BVersion%202.00S%5D%5BCIESEGAV200%20R1C%5D.bin|Interactive Encyclopedia (1994)(Compton's NewMedia)(NTSC)(US)[Version 2.00S][CIESEGAV200 R1C].bin|1996-12-25 05:32:00| size|228219264| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Interactive%20Encyclopedia%20%281994%29%28Compton%27s%20NewMedia%29%28NTSC%29%28US%29%5BVersion%202.00S%5D%5BCIESEGAV200%20R1C%5D.cue|Interactive Encyclopedia (1994)(Compton's NewMedia)(NTSC)(US)[Version 2.00S][CIESEGAV200 R1C].cue|1996-12-25 05:32:00| size|254| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/KILLER%20%28U%29.BIN|KILLER (U).BIN|1996-12-25 05:32:00| size|627729984| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Killer%20%28U%29.cue|Killer (U).cue|1996-12-25 05:32:00| size|145| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Of%20Modern%20Rock%2C%20The%20%28U%29.cue|Of Modern Rock, The (U).cue|1996-12-25 05:32:00| size|158| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Patrol%20%281994%29%28American%20Laser%20Games%29%28US%29%20%5BT-111055%5D.cue|Patrol (1994)(American Laser Games)(US) [T-111055].cue|1996-12-25 04:32:00| size|1524| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Patrol%20%281994%29%28American%20Laser%20Games%29%28US%29%20%5BT-111055%5D.img|Patrol (1994)(American Laser Games)(US) [T-111055].img|1996-12-25 04:32:00| size|282661008| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Rock%20I%20%28u%29.bin|Rock I (u).bin|1996-12-25 05:32:00| size|326140080| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Rock%20I%20%28u%29.cue|Rock I (u).cue|1996-12-25 05:32:00| size|786| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Rock%20II%20-%20Son%20Of%20Chuck%20%28u%29.bin|Rock II - Son Of Chuck (u).bin|1996-12-25 05:32:00| size|473109504| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Rock%20II%20-%20Son%20Of%20Chuck%20%28u%29.cue|Rock II - Son Of Chuck (u).cue|1996-12-25 05:32:00| size|942| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Soccer%20%2794%20%281994%29%28Sony%20Imagesoft%29%28NTSC%29%28US%29%5BCDAC-068200%201%5D.bin|Soccer '94 (1994)(Sony Imagesoft)(NTSC)(US)[CDAC-068200 1].bin|1996-12-25 04:32:00| size|344502144| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/Soccer%20%2794%20%281994%29%28Sony%20Imagesoft%29%28NTSC%29%28US%29%5BCDAC-068200%201%5D.cue|Soccer '94 (1994)(Sony Imagesoft)(NTSC)(US)[CDAC-068200 1].cue|1996-12-25 04:32:00| size|6128| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/X%20Beta%20%282002%29%28Good%20Deal%20Games%29%28US%29.cue|X Beta (2002)(Good Deal Games)(US).cue|1996-12-25 04:32:00| size|961| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-C.7z/X%20Beta%20%282002%29%28Good%20Deal%20Games%29%28US%29.img|X Beta (2002)(Good Deal Games)(US).img|1996-12-25 04:32:00| size|378361536| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Country%20Club%20-%203D%20Golf%20Simulation%20%281993%29%28Sega%29%28JP%29%20%5BG-6017%5D.cue|Country Club - 3D Golf Simulation (1993)(Sega)(JP) [G-6017].cue|1996-12-25 04:32:00| size|7574| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Country%20Club%20-%203D%20Golf%20Simulation%20%281993%29%28Sega%29%28JP%29%20%5BG-6017%5D.img|Country Club - 3D Golf Simulation (1993)(Sega)(JP) [G-6017].img|1996-12-25 04:32:00| size|358957536| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/DARKWIZARD_U.BIN|DARKWIZARD_U.BIN|1996-12-25 05:32:00| size|606129216| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Dune%20%28u%29.BIN|Dune (u).BIN|1996-12-25 04:32:00| size|542427648| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Explorer%20%28U%29.bin|Explorer (U).bin|1996-12-25 04:32:00| size|469099344| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Explorer%20%28U%29.cue|Explorer (U).cue|1996-12-25 04:32:00| size|599| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/MAN%20%28U%29.BIN|MAN (U).BIN|1996-12-25 05:32:00| size|366314592| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/MASTER-%20SKULL%20KEEP%20%28U%29.BIN|MASTER- SKULL KEEP (U).BIN|1996-12-25 05:32:00| size|198019584| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Man%20%28U%29.cue|Man (U).cue|1996-12-25 05:32:00| size|679| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Master-%20Skull%20Keep%20%28U%29.cue|Master- Skull Keep (U).cue|1996-12-25 05:32:00| size|363| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Switch%20%28u%29.bin|Switch (u).bin|1996-12-25 05:32:00| size|634825968| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Switch%20%28u%29.cue|Switch (u).cue|1996-12-25 05:32:00| size|157| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/UNLEASHED%20CD1.BIN|UNLEASHED CD1.BIN|1996-12-25 05:32:00| size|554956752| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/UNLEASHED%20CD2.BIN|UNLEASHED CD2.BIN|1996-12-25 05:32:00| size|610012368| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Unleashed%20CD1.cue|Unleashed CD1.cue|1996-12-25 05:32:00| size|149| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-D.7z/Unleashed%20CD2.cue|Unleashed CD2.cue|1996-12-25 05:32:00| size|149| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/%2832X%29%20%28U%29%20CD1.bin|(32X) (U) CD1.bin|2018-04-25 18:09:49| size|595585200| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/%2832X%29%20%28U%29%20CD1.cue|(32X) (U) CD1.cue|2008-08-07 22:57:11| size|152| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/-%20The%20Tides%20Of%20Time%20%28Sega%20CD%29%20%28U%29.bin|- The Tides Of Time (Sega CD) (U).bin|1996-12-25 05:32:00| size|662353776| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/-%20The%20Tides%20Of%20Time%20%28Sega%20CD%29%20%28U%29.cue|- The Tides Of Time (Sega CD) (U).cue|1996-12-25 05:32:00| size|1228| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/BASEBALL%20TONIGHT%20%281994%29%28SONY%20IMAGESOFT%29%28NTSC%29%28US%29%5BCDAC-072400%201%5D.BIN|BASEBALL TONIGHT (1994)(SONY IMAGESOFT)(NTSC)(US)[CDAC-072400 1].BIN|1996-12-25 04:32:00| size|217171920| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Baseball%20Tonight%20%281994%29%28Sony%20Imagesoft%29%28NTSC%29%28US%29%5BCDAC-072400%201%5D.cue|Baseball Tonight (1994)(Sony Imagesoft)(NTSC)(US)[CDAC-072400 1].cue|1996-12-25 04:32:00| size|197| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/CHAMPIONS%20%28U%29.BIN|CHAMPIONS (U).BIN|1996-12-25 05:32:00| size|505778784| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Champions%20%28U%29.cue|Champions (U).cue|1996-12-25 05:32:00| size|846| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Circus%20CD%20%281994%29%28Nichibutsu%29%28JP%29%20%5BT-71014%5D.cue|Circus CD (1994)(Nichibutsu)(JP) [T-71014].cue|1996-12-25 04:32:00| size|16336| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/EARNEST%20EVANS_JP.BIN|EARNEST EVANS_JP.BIN|2014-12-09 00:31:13| size|592398240| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/EVANS_JP.CUE|EVANS_JP.CUE|2014-12-09 00:31:14| size|1616| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/F1%20Circus%20CD%20%281994%29%28Nichibutsu%29%28JP%29%20%5BT-71014%5D.img|F1 Circus CD (1994)(Nichibutsu)(JP) [T-71014].img|1996-12-25 04:32:00| size|421429008| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/FURY%20SPECIAL%20%28U%29.BIN|FURY SPECIAL (U).BIN|1996-12-25 04:32:00| size|517141296| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Fight%20CD%20%28Sega%20CD%29%20%28U%29.bin|Fight CD (Sega CD) (U).bin|1996-12-25 04:32:00| size|448056000| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Fight%20CD%20%28Sega%20CD%29%20%28U%29.cue|Fight CD (Sega CD) (U).cue|1996-12-25 04:32:00| size|1848| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Fury%20Special%20%28U%29.cue|Fury Special (U).cue|1996-12-25 04:32:00| size|2454| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/International%20Soccer%20%28U%29.BIN|International Soccer (U).BIN|1996-12-25 04:32:00| size|576780960| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/International%20Soccer%20%28U%29.cue|International Soccer (U).cue|1996-12-25 04:32:00| size|1961| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Jim%20-%20Special%20Edition%20%28Sega%20CD%29%20%28U%29.bin|Jim - Special Edition (Sega CD) (U).bin|1996-12-25 05:32:00| size|394590336| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Jim%20-%20Special%20Edition%20%28Sega%20CD%29%20%28U%29.cue|Jim - Special Edition (Sega CD) (U).cue|1996-12-25 05:32:00| size|2005| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/NATIONAL%20HOCKEY%20NIGHT%20%28U%29.BIN|NATIONAL HOCKEY NIGHT (U).BIN|1996-12-25 04:32:00| size|371655984| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/NBA%20HANG%20TIME%20%2795%20%28U%29.BIN|NBA HANG TIME '95 (U).BIN|1996-12-25 04:32:00| size|558425952| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/NBA%20Hang%20Time%20%2795%20%28U%29.cue|NBA Hang Time '95 (U).cue|1996-12-25 04:32:00| size|1015| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/National%20Hockey%20Night%20%28U%29.cue|National Hockey Night (U).cue|1996-12-25 04:32:00| size|363| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/SUNDAY%20NIGHT%20NFL%20%28U%29.BIN|SUNDAY NIGHT NFL (U).BIN|1996-12-25 04:32:00| size|302561280| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/Sunday%20Night%20NFL%20%28U%29.cue|Sunday Night NFL (U).cue|1996-12-25 04:32:00| size|153| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/the%20Dolphin%20%28U%29.BIN|the Dolphin (U).BIN|1996-12-25 04:32:00| size|657913200| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-E-F.7z/the%20Dolphin%20%28U%29.cue|the Dolphin (U).cue|1996-12-25 04:32:00| size|1080| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/||1996-12-25 05:32:00| size|152| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/%281992%29%28Sega%29%28NTSC%29%28US%29%5BMake%20My%20Video%5D%5BCDAC-039200%201%5D.bin|(1992)(Sega)(NTSC)(US)[Make My Video][CDAC-039200 1].bin|1996-12-25 04:32:00| size|505955184| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/%281992%29%28Sega%29%28NTSC%29%28US%29%5BMake%20My%20Video%5D%5BCDAC-039200%201%5D.cue|(1992)(Sega)(NTSC)(US)[Make My Video][CDAC-039200 1].cue|1996-12-25 04:32:00| size|208| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/%28Sega%20CD%29%20%28U%29.bin|(Sega CD) (U).bin|1996-12-25 05:32:00| size|124187952| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/%28Sega%20CD%29%20%28U%29.cue|(Sega CD) (U).cue|1996-12-25 05:32:00| size|233| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Game%20no%20Kandume%20-%20Sega%20Games%20Can%20Vol.1%20%281994%29%28Sega%29%28JP%29%20%5BG-6032%5D.cue|Game no Kandume - Sega Games Can Vol.1 (1994)(Sega)(JP) [G-6032].cue|1996-12-25 04:32:00| size|17453| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Helix%20%281992%29%28Spectrum%20HoloByte%29%28NTSC%29%28US%29%5BSEGAT124015%20R2H%5D.bin|Helix (1992)(Spectrum HoloByte)(NTSC)(US)[SEGAT124015 R2H].bin|1996-12-25 05:32:00| size|475153392| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Helix%20%281992%29%28Spectrum%20HoloByte%29%28NTSC%29%28US%29%5BSEGAT124015%20R2H%5D.cue|Helix (1992)(Spectrum HoloByte)(NTSC)(US)[SEGAT124015 R2H].cue|1996-12-25 05:32:00| size|214| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/JAGUAR%20XC220.BIN|JAGUAR XC220.BIN|1996-12-25 04:32:00| size|480859344| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Montana%27s%20NFL%20Football%20%28U%29.bin|Montana's NFL Football (U).bin|1996-12-25 04:32:00| size|281739024| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Montana%27s%20NFL%20Football%20%28U%29.cue|Montana's NFL Football (U).cue|1996-12-25 04:32:00| size|322| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Of%20The%20Alien%20%28Sega%20CD%29%20%28U%29.bin|Of The Alien (Sega CD) (U).bin|1996-12-25 04:32:00| size|446329632| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Of%20The%20Alien%20%28Sega%20CD%29%20%28U%29.cue|Of The Alien (Sega CD) (U).cue|1996-12-25 04:32:00| size|2972| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Park%20%28Sega%20CD%29%20%28U%29.bin|Park (Sega CD) (U).bin|1996-12-25 05:32:00| size|528557904| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Park%20%28Sega%20CD%29%20%28U%29.cue|Park (Sega CD) (U).cue|1996-12-25 05:32:00| size|2267| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/XC220.cue|XC220.cue|2018-03-25 21:14:49| size|844| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Zero%20Texas%20%28disc%201%29%20%28Sega%20CD%29%20%28U%29.bin|Zero Texas (disc 1) (Sega CD) (U).bin|1996-12-25 05:32:00| size|632295216| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Zero%20Texas%20%28disc%201%29%20%28Sega%20CD%29%20%28U%29.cue|Zero Texas (disc 1) (Sega CD) (U).cue|1996-12-25 05:32:00| size|180| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Zero%20Texas%20%28disc%202%29%20%28Sega%20CD%29%20%28U%29.bin|Zero Texas (disc 2) (Sega CD) (U).bin|1996-12-25 05:32:00| size|602330736| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/Zero%20Texas%20%28disc%202%29%20%28Sega%20CD%29%20%28U%29.cue|Zero Texas (disc 2) (Sega CD) (U).cue|1996-12-25 05:32:00| size|180| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/no%20Kandume%20-%20Sega%20Games%20Can%20Vol.1%20%281994%29%28Sega%29%28JP%29%20%5BG-6032%5D.img|no Kandume - Sega Games Can Vol.1 (1994)(Sega)(JP) [G-6032].img|1996-12-25 04:32:00| size|381917760| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/no%20Kandume%20-%20Sega%20Games%20Can%20Vol.2%20%281994%29%28Sega%29%28JP%29%20%5BG-6033%5D.cue|no Kandume - Sega Games Can Vol.2 (1994)(Sega)(JP) [G-6033].cue|1996-12-25 04:32:00| size|13610| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-G-K.7z/no%20Kandume%20-%20Sega%20Games%20Can%20Vol.2%20%281994%29%28Sega%29%28JP%29%20%5BG-6033%5D.img|no Kandume - Sega Games Can Vol.2 (1994)(Sega)(JP) [G-6033].img|1996-12-25 04:32:00| size|409299744| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/||1996-12-25 04:32:00| size|1516| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/-%20The%20Challenge%20Of%20Golf%20%28Sega%20CD%29%20%28U%29-redump.bin|- The Challenge Of Golf (Sega CD) (U)-redump.bin|1996-12-25 04:32:00| size|572512080| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/-%20The%20Challenge%20Of%20Golf%20%28Sega%20CD%29%20%28U%29-redump.cue|- The Challenge Of Golf (Sega CD) (U)-redump.cue|1996-12-25 04:32:00| size|190| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/-%20The%20Legend%20of%20Tully%20Bodine%20%281994%29%28Rocket%20Science%20Games%29%28NTSC%29%28US%29%5BSEGAT153015%20R3J%5D.bin|- The Legend of Tully Bodine (1994)(Rocket Science Games)(NTSC)(US)[SEGAT153015 R3J].bin|1996-12-25 05:32:00| size|657325200| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/-%20The%20Legend%20of%20Tully%20Bodine%20%281994%29%28Rocket%20Science%20Games%29%28NTSC%29%28US%29%5BSEGAT153015%20R3J%5D.cue|- The Legend of Tully Bodine (1994)(Rocket Science Games)(NTSC)(US)[SEGAT153015 R3J].cue|1996-12-25 05:32:00| size|244| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/-%20The%20Silver%20Star%20%28Sega%20CD%29%20%28U%29.bin|- The Silver Star (Sega CD) (U).bin|1996-12-25 05:32:00| size|498555792| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/-%20The%20Silver%20Star%20%28Sega%20CD%29%20%28U%29.cue|- The Silver Star (Sega CD) (U).cue|1996-12-25 05:32:00| size|3677| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/Enforcers%20%28Sega%20CD%29%20%28U%29.bin|Enforcers (Sega CD) (U).bin|1996-12-25 04:32:00| size|604285248| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/Enforcers%20%28Sega%20CD%29%20%28U%29.cue|Enforcers (Sega CD) (U).cue|1996-12-25 04:32:00| size|1640| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/Eternal%20Blue.cue|Eternal Blue.cue|1996-12-25 05:32:00| size|210| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/LAWNMOWER%20MAN%20%28U%29.BIN|LAWNMOWER MAN (U).BIN|1996-12-25 05:32:00| size|615570144| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/Lunar%20Eternal%20Blue.bin|Lunar Eternal Blue.bin|1996-12-25 05:32:00| size|584135664| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/Man%20%28U%29.cue|Man (U).cue|1996-12-25 05:32:00| size|145| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/OF%20THUNDER%20%28U%29.BIN|OF THUNDER (U).BIN|1996-12-25 05:32:00| size|579624528| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-L.7z/of%20Thunder%20%28U%29.cue|of Thunder (U).cue|1996-12-25 05:32:00| size|1364| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/||2018-03-25 21:10:20| size|1357| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/%281994%29%28The%20Software%20Toolworks%29%28NTSC%29%28US%29%5BCDAC-073000%201%5D.bin|(1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].bin|1996-12-25 05:32:00| size|590283792| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/%281994%29%28The%20Software%20Toolworks%29%28NTSC%29%28US%29%5BCDAC-073000%201%5D.cue|(1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].cue|1996-12-25 05:32:00| size|192| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/%282003%29%28Good%20Deal%20Games%29%28US%29.cue|(2003)(Good Deal Games)(US).cue|1996-12-25 04:32:00| size|7432| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/%282003%29%28Good%20Deal%20Games%29%28US%29.img|(2003)(Good Deal Games)(US).img|1996-12-25 04:32:00| size|415177392| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/%28Sega%20CD%29%20%28U%29.cue|(Sega CD) (U).cue|1996-12-25 05:32:00| size|653| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/2.CUE|2.CUE|2018-03-25 21:13:25| size|472| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/3.CUE|3.CUE|2018-03-25 21:13:25| size|472| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Dog%20II%20-%20The%20Lost%20Gold%20%281994%29%28American%20Laser%20Games%29%28NTSC%29%28US%29%5BSEGAT111065%20R1F%5D.bin|Dog II - The Lost Gold (1994)(American Laser Games)(NTSC)(US)[SEGAT111065 R1F].bin|1996-12-25 04:32:00| size|265082160| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Dog%20II%20-%20The%20Lost%20Gold%20%281994%29%28American%20Laser%20Games%29%28NTSC%29%28US%29%5BSEGAT111065%20R1F%5D.cue|Dog II - The Lost Gold (1994)(American Laser Games)(NTSC)(US)[SEGAT111065 R1F].cue|1996-12-25 04:32:00| size|233| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Dog%20McCree%20%281993%29%28American%20Laser%20Games%29%28NTSC%29%28US%29%5BSEGAT111015%20R1D%5D.bin|Dog McCree (1993)(American Laser Games)(NTSC)(US)[SEGAT111015 R1D].bin|1996-12-25 04:32:00| size|255690624| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Dog%20McCree%20%281993%29%28American%20Laser%20Games%29%28NTSC%29%28US%29%5BSEGAT111015%20R1D%5D.cue|Dog McCree (1993)(American Laser Games)(NTSC)(US)[SEGAT111015 R1D].cue|1996-12-25 04:32:00| size|541| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/MAKE%20MY%20VIDEO%20-%20KRIS%20KROSS%20%28U%29.BIN|MAKE MY VIDEO - KRIS KROSS (U).BIN|1996-12-25 04:32:00| size|385445760| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Mania%20%28Sega%20CD%29%20%28U%29.bin|Mania (Sega CD) (U).bin|1996-12-25 05:32:00| size|500872512| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Mania%20%28Sega%20CD%29%20%28U%29.cue|Mania (Sega CD) (U).cue|1996-12-25 05:32:00| size|1986| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Microcosm%20%28Sega%20CD%29%20%28U%29.bin|Microcosm (Sega CD) (U).bin|1996-12-25 05:32:00| size|468948816| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Morphin%20Power%20Rangers%20%28Sega%20CD%29%20%28U%29.bin|Morphin Power Rangers (Sega CD) (U).bin|1996-12-25 05:32:00| size|472752000| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Morphin%20Power%20Rangers%20%28Sega%20CD%29%20%28U%29.cue|Morphin Power Rangers (Sega CD) (U).cue|1996-12-25 05:32:00| size|182| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/My%20Video%20-%20Kris%20Kross%20%28U%29.cue|My Video - Kris Kross (U).cue|1996-12-25 04:32:00| size|96| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/OF%20HIDDEN%20SOULS%20%28U%29.BIN|OF HIDDEN SOULS (U).BIN|1996-12-25 05:32:00| size|611980992| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Paint%20-%20The%20Animated%20Paint%20Program%20%281994%29%28Saddleback%20Graphics%29%28US%29%20%5BT-109015%5D.cue|Paint - The Animated Paint Program (1994)(Saddleback Graphics)(US) [T-109015].cue|1996-12-25 04:32:00| size|5940| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Paint%20-%20The%20Animated%20Paint%20Program%20%281994%29%28Saddleback%20Graphics%29%28US%29%20%5BT-109015%5D.img|Paint - The Animated Paint Program (1994)(Saddleback Graphics)(US) [T-109015].img|1996-12-25 04:32:00| size|618129120| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/SHELLEY%27S%20FRANKENSTEIN%20%281994%29%28SONY%20IMAGESOFT%29%28NTSC%29%28US%29%5BCDAC-077800%201%5D.BIN|SHELLEY'S FRANKENSTEIN (1994)(SONY IMAGESOFT)(NTSC)(US)[CDAC-077800 1].BIN|1996-12-25 04:32:00| size|253999536| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/Shelley%27s%20Frankenstein%20%281994%29%28Sony%20Imagesoft%29%28NTSC%29%28US%29%5BCDAC-077800%201%5D.cue|Shelley's Frankenstein (1994)(Sony Imagesoft)(NTSC)(US)[CDAC-077800 1].cue|1996-12-25 04:32:00| size|523| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-M.7z/of%20Hidden%20Souls%20%28U%29.cue|of Hidden Souls (U).cue|1996-12-25 05:32:00| size|155| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/||1996-12-25 04:32:00| size|595| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/%2794%20%28U%29.BIN|'94 (U).BIN|1996-12-25 04:32:00| size|555290736| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/%2794%20%28U%29.cue|'94 (U).cue|1996-12-25 04:32:00| size|3296| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/%28Sega%20CD%29%20%28U%29-redump.bin|(Sega CD) (U)-redump.bin|1996-12-25 04:32:00| size|451374672| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/%28Sega%20CD%29%20%28U%29-redump.cue|(Sega CD) (U)-redump.cue|1996-12-25 04:32:00| size|170| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Football%20Trivia%20Challenge%20%281994%29%28CapDisc%29%28NTSC%29%28US%29%5BSEGAT135015%20R1H%5D.bin|Football Trivia Challenge (1994)(CapDisc)(NTSC)(US)[SEGAT135015 R1H].bin|1996-12-25 04:32:00| size|584824800| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Football%20Trivia%20Challenge%20%281994%29%28CapDisc%29%28NTSC%29%28US%29%5BSEGAT135015%20R1H%5D.cue|Football Trivia Challenge (1994)(CapDisc)(NTSC)(US)[SEGAT135015 R1H].cue|1996-12-25 04:32:00| size|223| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Greatest%20-%20San%20Francisco%20vs.%20Dallas%201978-1993%20%281993%29%28Sega%29%28NTSC%29%28US%29%5BCDAC-054500%204%5D.bin|Greatest - San Francisco vs. Dallas 1978-1993 (1993)(Sega)(NTSC)(US)[CDAC-054500 4].bin|1996-12-25 04:32:00| size|632224656| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Greatest%20-%20San%20Francisco%20vs.%20Dallas%201978-1993%20%281993%29%28Sega%29%28NTSC%29%28US%29%5BCDAC-054500%204%5D.cue|Greatest - San Francisco vs. Dallas 1978-1993 (1993)(Sega)(NTSC)(US)[CDAC-054500 4].cue|1996-12-25 04:32:00| size|217| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/NBA_Jam%28US-Genesis%29.bin|NBA_Jam(US-Genesis).bin|1996-12-25 04:32:00| size|429296448| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Night%20Striker%20%281993%29%28Taito%29%28JP%29%20%5BT-11014%5D.img|Night Striker (1993)(Taito)(JP) [T-11014].img|1996-12-25 04:32:00| size|538777344| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Striker%20%281993%29%28Taito%29%28JP%29%20%5BT-11014%5D.cue|Striker (1993)(Taito)(JP) [T-11014].cue|1996-12-25 04:32:00| size|21844| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/TRAP%20-%20DISC%201%20%28U%29.BIN|TRAP - DISC 1 (U).BIN|1996-12-25 05:32:00| size|616997808| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/TRAP%20-%20DISC%202%20%28U%29.BIN|TRAP - DISC 2 (U).BIN|1996-12-25 05:32:00| size|515351424| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Trap%20-%20disc%201%20%28U%29.cue|Trap - disc 1 (U).cue|1996-12-25 05:32:00| size|89| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/Trap%20-%20disc%202%20%28U%29.cue|Trap - disc 2 (U).cue|1996-12-25 05:32:00| size|89| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/WARRIORS.BIN|WARRIORS.BIN|2014-12-06 01:36:40| size|535724448| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-N.7z/WARRIORS.CUE|WARRIORS.CUE|2014-12-06 01:36:41| size|1294| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/%26%20Teller%27s%20Smoke%20and%20Mirrors%20%28U%29%20CD%201.bin|&amp; Teller's Smoke and Mirrors (U) CD 1.bin|2018-03-26 03:54:13| size|599524800| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/%26%20Teller%27s%20Smoke%20and%20Mirrors%20%28U%29%20CD%201.cue|&amp; Teller's Smoke and Mirrors (U) CD 1.cue|2018-03-26 03:55:45| size|539| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/%26%20Teller%27s%20Smoke%20and%20Mirrors%20%28U%29%20CD%202.bin|&amp; Teller's Smoke and Mirrors (U) CD 2.bin|2018-03-26 03:54:41| size|248851008| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/%26%20Teller%27s%20Smoke%20and%20Mirrors%20%28U%29%20CD%202.cue|&amp; Teller's Smoke and Mirrors (U) CD 2.cue|2018-03-26 03:55:56| size|252| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/%281994%29%28Data%20East%29%28NTSC%29%28US%29%5BSEGAT13015RE%20R1J%5D.cue|(1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].cue|1996-12-25 05:32:00| size|3019| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/%28Sega%20CD%29%20%28U%29.cue|(Sega CD) (U).cue|1996-12-25 05:32:00| size|1560| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/-%20The%20Mayan%20Adventure%20%28u%29.bin|- The Mayan Adventure (u).bin|1996-12-25 05:32:00| size|553413840| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/-%20The%20Mayan%20Adventure%20%28u%29.cue|- The Mayan Adventure (u).cue|1996-12-25 05:32:00| size|1643| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Factory%2C%20Featuring%20C%26C%20Music%20Factory%20%281992%29%28Sony%20Imagesoft%29%28NTSC%29%28US%29%5BMake%20My%20Video%5D%5BCDRM-1038530%203%5D.bin|Factory, Featuring C&amp;C Music Factory (1992)(Sony Imagesoft)(NTSC)(US)[Make My Video][CDRM-1038530 3].bin|1996-12-25 04:32:00| size|430507728| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Factory%2C%20Featuring%20C%26C%20Music%20Factory%20%281992%29%28Sony%20Imagesoft%29%28NTSC%29%28US%29%5BMake%20My%20Video%5D%5BCDRM-1038530%203%5D.cue|Factory, Featuring C&amp;C Music Factory (1992)(Sony Imagesoft)(NTSC)(US)[Make My Video][CDRM-1038530 3].cue|1996-12-25 04:32:00| size|172| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Mail%20%28Sega%20CD%29%20%28U%29.bin|Mail (Sega CD) (U).bin|1996-12-25 05:32:00| size|513912000| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Mail%20%28Sega%20CD%29%20%28U%29.cue|Mail (Sega CD) (U).cue|1996-12-25 05:32:00| size|305| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Monger%20%28Sega%20CD%29%20%28U%29.bin|Monger (Sega CD) (U).bin|1996-12-25 05:32:00| size|549725904| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Monger%20%28Sega%20CD%29%20%28U%29.cue|Monger (Sega CD) (U).cue|1996-12-25 05:32:00| size|726| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Panic%21%20%281994%29%28Data%20East%29%28NTSC%29%28US%29%5BSEGAT13015RE%20R1J%5D.bin|Panic! (1994)(Data East)(NTSC)(US)[SEGAT13015RE R1J].bin|1996-12-25 05:32:00| size|587216784| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Puggsy%20%28Sega%20CD%29%20%28U%29.bin|Puggsy (Sega CD) (U).bin|1996-12-25 05:32:00| size|548258256| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Yakyuu%20Super%20League%20CD%20%281992%29%28Sega%29%28JP%29%20%5BG-6010%5D.cue|Yakyuu Super League CD (1992)(Sega)(JP) [G-6010].cue|1996-12-25 04:32:00| size|13049| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/Yakyuu%20Super%20League%20CD%20%281992%29%28Sega%29%28JP%29%20%5BG-6010%5D.img|Yakyuu Super League CD (1992)(Sega)(JP) [G-6010].img|1996-12-25 04:32:00| size|139403040| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/fighter%20disc%201.bin|fighter disc 1.bin|1996-12-25 05:32:00| size|412056288| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/fighter%20disc%201.cue|fighter disc 1.cue|1996-12-25 05:32:00| size|148| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/fighter%20disc%202.bin|fighter disc 2.bin|1996-12-25 05:32:00| size|472815504| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/fighter%20disc%202.cue|fighter disc 2.cue|1996-12-25 05:32:00| size|148| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/of%20Persia%20-%20CD.BIN|of Persia - CD.BIN|1996-12-25 04:32:00| size|345847488| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-P.7z/of%20Persia%20-%20CD.cue|of Persia - CD.cue|1996-12-25 04:32:00| size|1621| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/||1996-12-25 04:32:00| size|164| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/-%20Global%20Conflict%20%28U%29.cue|- Global Conflict (U).cue|2008-08-13 20:37:14| size|475| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/Aces%20%281993%29%28Sega%29%28NTSC%29%28US%29%5BCDAC-055000%201%5D.bin|Aces (1993)(Sega)(NTSC)(US)[CDAC-055000 1].bin|1996-12-25 05:32:00| size|304720416| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/Aces%20%281993%29%28Sega%29%28NTSC%29%28US%29%5BCDAC-055000%201%5D.cue|Aces (1993)(Sega)(NTSC)(US)[CDAC-055000 1].cue|1996-12-25 05:32:00| size|753| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/Avenger%20%28Sega%20CD%29%20%28U%29.bin|Avenger (Sega CD) (U).bin|1996-12-25 05:32:00| size|336253680| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/Avenger%20%28Sega%20CD%29%20%28U%29.cue|Avenger (Sega CD) (U).cue|1996-12-25 05:32:00| size|306| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/OF%20VENGEANCE%20%28U%29.BIN|OF VENGEANCE (U).BIN|1996-12-25 05:32:00| size|584062752| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/RDF%20-%20Global%20Conflict%20%28U%29.bin|RDF - Global Conflict (U).bin|2018-03-26 03:27:46| size|354394656| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/Rex%20%28U%29.bin|Rex (U).bin|2018-03-25 16:48:19| size|270404736| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/Rex%20%28U%29.cue|Rex (U).cue|2008-08-13 17:03:24| size|785| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/of%20Vengeance%20%28U%29.cue|of Vengeance (U).cue|1996-12-25 05:32:00| size|2906| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/of%20the%20Ninja%20%281994%29%28Renovation%20Products%29%28NTSC%29%28US%29%5BSEGAT49035%20R1C%5D.bin|of the Ninja (1994)(Renovation Products)(NTSC)(US)[SEGAT49035 R1C].bin|1996-12-25 05:32:00| size|377844096| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-R.7z/of%20the%20Ninja%20%281994%29%28Renovation%20Products%29%28NTSC%29%28US%29%5BSEGAT49035%20R1C%5D.cue|of the Ninja (1994)(Renovation Products)(NTSC)(US)[SEGAT49035 R1C].cue|1996-12-25 05:32:00| size|417| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/%28U%29.bin|(U).bin|2016-04-24 05:12:09| size|562600752| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/%28U%29.cue|(U).cue|2016-04-22 00:08:44| size|1381| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%201%20%28U%29.bin|City with Scottie Pippen Disc 1 (U).bin|2016-04-24 05:21:07| size|603840720| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%201%20%28U%29.cue|City with Scottie Pippen Disc 1 (U).cue|2016-04-24 05:21:08| size|193| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%202%20%28U%29.bin|City with Scottie Pippen Disc 2 (U).bin|2016-04-24 05:21:56| size|584163888| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%202%20%28U%29.cue|City with Scottie Pippen Disc 2 (U).cue|2016-04-24 05:21:57| size|193| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%203%20%28U%29.bin|City with Scottie Pippen Disc 3 (U).bin|2016-04-24 05:22:42| size|590413152| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%203%20%28U%29.cue|City with Scottie Pippen Disc 3 (U).cue|2016-04-24 05:22:43| size|193| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%204%20%28U%29.bin|City with Scottie Pippen Disc 4 (U).bin|2016-04-24 05:23:21| size|558484752| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/City%20with%20Scottie%20Pippen%20Disc%204%20%28U%29.cue|City with Scottie Pippen Disc 4 (U).cue|2016-04-24 05:23:22| size|193| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Classics%20Arcade%20Collection%205-in-1%20%28U%29.bin|Classics Arcade Collection 5-in-1 (U).bin|2016-04-26 21:11:49| size|208864656| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Classics%20Arcade%20Collection%205-in-1%20%28U%29.cue|Classics Arcade Collection 5-in-1 (U).cue|2016-04-26 21:11:50| size|835| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Denshou%20%281993%29%28Sammy%29%28JP%29%20%5BT-24034%5D.cue|Denshou (1993)(Sammy)(JP) [T-24034].cue|1996-12-25 06:32:00| size|17432| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Denshou%20%281993%29%28Sammy%29%28JP%29%20%5BT-24034%5D.img|Denshou (1993)(Sammy)(JP) [T-24034].img|1996-12-25 06:32:00| size|314690544| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Force%20CD%20%28U%29.cue|Force CD (U).cue|2016-04-24 05:43:47| size|2285| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Holmes%20-%20Consulting%20Detective%20%28U%29.bin|Holmes - Consulting Detective (U).bin|2016-04-24 05:13:52| size|761415312| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Holmes%20-%20Consulting%20Detective%20%28U%29.cue|Holmes - Consulting Detective (U).cue|2016-04-24 05:13:53| size|195| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Holmes%20-%20Consulting%20Detective%20Vol.%20II%20Disc%201%20%28U%29.bin|Holmes - Consulting Detective Vol. II Disc 1 (U).bin|2016-04-24 05:18:40| size|539958048| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Holmes%20-%20Consulting%20Detective%20Vol.%20II%20Disc%201%20%28U%29.cue|Holmes - Consulting Detective Vol. II Disc 1 (U).cue|2016-04-24 05:18:41| size|210| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Holmes%20-%20Consulting%20Detective%20Vol.%20II%20Disc%202%20%28U%29.bin|Holmes - Consulting Detective Vol. II Disc 2 (U).bin|2016-04-24 05:19:47| size|336792288| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Holmes%20-%20Consulting%20Detective%20Vol.%20II%20Disc%202%20%28U%29.cue|Holmes - Consulting Detective Vol. II Disc 2 (U).cue|2016-04-24 05:19:48| size|210| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Samurai%20Showdown%20%28U%29.bin|Samurai Showdown (U).bin|2016-04-26 21:06:33| size|434071008| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Shark%20%28U%29.bin|Shark (U).bin|2016-04-26 21:09:27| size|488418672| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Shark%20%28U%29.cue|Shark (U).cue|2016-04-26 21:09:28| size|106| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Shining%20Force%20CD%20%28U%29.bin|Shining Force CD (U).bin|2016-04-24 05:43:46| size|505992816| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Showdown%20%28U%29.cue|Showdown (U).cue|2016-04-26 21:06:34| size|1321| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/Snatcher%20%28U%29.bin|Snatcher (U).bin|2016-04-22 00:08:43| size|624839376| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/The%20%28E%29.bin|The (E).bin|2016-04-22 00:09:17| size|349551888| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/The%20%28E%29.cue|The (E).cue|2016-04-22 00:09:18| size|1384| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/of%20Monkey%20Island%2C%20The%20%28U%29.bin|of Monkey Island, The (U).bin|2016-04-26 21:04:45| size|474591264| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/of%20Monkey%20Island%2C%20The%20%28U%29.cue|of Monkey Island, The (U).cue|2016-04-26 21:04:46| size|1785| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/of%20the%20Beast%20II%20%28U%29.bin|of the Beast II (U).bin|2016-04-24 05:12:52| size|455690592| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S1.7z/of%20the%20Beast%20II%20%28U%29.cue|of the Beast II (U).cue|2016-04-24 05:12:53| size|1011| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/||2016-04-18 18:23:37| size|1404| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%28Track%201%20of%206%29%5B%21%5D.iso|(1995)(Domark)(PAL)(M3)(Track 1 of 6)[!].iso|1996-12-25 04:32:00| size|16883712| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%28Track%202%20of%206%29%5B%21%5D.wav|(1995)(Domark)(PAL)(M3)(Track 2 of 6)[!].wav|1996-12-25 04:32:00| size|82444700| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%28Track%203%20of%206%29%5B%21%5D.wav|(1995)(Domark)(PAL)(M3)(Track 3 of 6)[!].wav|1996-12-25 04:32:00| size|61114412| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%28Track%204%20of%206%29%5B%21%5D.wav|(1995)(Domark)(PAL)(M3)(Track 4 of 6)[!].wav|1996-12-25 04:32:00| size|66674540| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%28Track%205%20of%206%29%5B%21%5D.wav|(1995)(Domark)(PAL)(M3)(Track 5 of 6)[!].wav|1996-12-25 04:32:00| size|69130028| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%28Track%206%20of%206%29%5B%21%5D.wav|(1995)(Domark)(PAL)(M3)(Track 6 of 6)[!].wav|1996-12-25 04:32:00| size|53665628| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%281995%29%28Domark%29%28PAL%29%28M3%29%5B%21%5D.cue|(1995)(Domark)(PAL)(M3)[!].cue|1996-12-25 04:32:00| size|797| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%28U%29.bin|(U).bin|2016-04-22 00:06:31| size|641453904| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/%28U%29.cue|(U).cue|2016-04-22 00:06:32| size|1125| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Ace%20%28U%29.bin|Ace (U).bin|2016-04-18 19:08:24| size|307432272| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Ace%20%28U%29.cue|Ace (U).cue|2016-04-18 19:08:25| size|166| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Adventure%2C%20The%20%28U%29.bin|Adventure, The (U).bin|2011-04-05 02:44:48| size|278098128| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Adventure%2C%20The%20%28U%29.cue|Adventure, The (U).cue|2016-04-18 19:06:54| size|344| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/CD%20%28U%29.bin|CD (U).bin|2016-04-22 00:07:11| size|601349952| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/CD%20%28U%29.cue|CD (U).cue|2016-04-22 00:07:12| size|2277| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/SUPER_STRIKE_TRILOGY.CUE|SUPER_STRIKE_TRILOGY.CUE|2017-07-13 08:11:48| size|2858| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Stellar-Fire.bin|Stellar-Fire.bin|2016-04-18 18:23:36| size|511774032| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%281995%29%28Sega%29%28NTSC%29%28US%29%28Track%201%20of%203%29%5B%21%5D%5B1008604435%5D.iso|Strike (1995)(Sega)(NTSC)(US)(Track 1 of 3)[!][1008604435].iso|1996-12-25 06:32:00| size|387790848| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%281995%29%28Sega%29%28NTSC%29%28US%29%28Track%203%20of%203%29%5B%21%5D%5B1008604435%5D.wav|Strike (1995)(Sega)(NTSC)(US)(Track 3 of 3)[!][1008604435].wav|1996-12-25 06:32:00| size|1987484| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%281995%29%28Sega%29%28NTSC%29%28US%29%5B%21%5D%5B1008604435%5D.cue|Strike (1995)(Sega)(NTSC)(US)[!][1008604435].cue|2018-04-24 22:13:03| size|429| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%282000%29%28Good%20Deal%20Games%29%28US%29.cue|Strike (2000)(Good Deal Games)(US).cue|1996-12-25 06:32:00| size|1363| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%282000%29%28Good%20Deal%20Games%29%28US%29.img|Strike (2000)(Good Deal Games)(US).img|1996-12-25 06:32:00| size|638114064| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%28U%29.cue|Strike (U).cue|2008-09-06 03:09:18| size|179| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%28U%29%202.cue|Strike (U) 2.cue|2008-09-06 03:09:18| size|179| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Strike%20%28U%29%203.cue|Strike (U) 3.cue|2008-09-06 03:09:18| size|179| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Surgical%20Strike%20%281995%29%28Sega%29%28NTSC%29%28US%29%28Track%202%20of%203%29%5B%21%5D%5B1008604435%5D.wav|Surgical Strike (1995)(Sega)(NTSC)(US)(Track 2 of 3)[!][1008604435].wav|1996-12-25 06:32:00| size|43213340| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Warrior%20Disc%201%20%28U%29.bin|Warrior Disc 1 (U).bin|2016-04-18 18:24:35| size|492595824| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Warrior%20Disc%201%20%28U%29.cue|Warrior Disc 1 (U).cue|2016-04-18 18:24:36| size|179| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Warrior%20Disc%202%20%28U%29.bin|Warrior Disc 2 (U).bin|2016-04-18 18:25:13| size|488122320| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Warrior%20Disc%202%20%28U%29.cue|Warrior Disc 2 (U).cue|2016-04-18 18:25:14| size|179| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Wars%20Chess%20%28U%29.bin|Wars Chess (U).bin|2016-04-18 18:20:24| size|262332672| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Wars%20Chess%20%28U%29.cue|Wars Chess (U).cue|2016-04-18 18:20:25| size|172| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Wars%20Rebel%20Assault%20%28U%29.bin|Wars Rebel Assault (U).bin|2016-04-18 18:21:08| size|452701200| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-S2.7z/Wars%20Rebel%20Assault%20%28U%29.cue|Wars Rebel Assault (U).cue|2016-04-18 18:21:09| size|180| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/||2010-12-10 05:14:52| size|266835968| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/%28Sega%20CD%29%20%28U%29.bin|(Sega CD) (U).bin|1996-12-25 05:32:00| size|475541472| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/%28Sega%20CD%29%20%28U%29.cue|(Sega CD) (U).cue|1996-12-25 05:32:00| size|1557| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Alley%20%28U%29.cue|Alley (U).cue|1996-12-25 05:32:00| size|144| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Cop%20%28PAL%2C%20Beta%2C%20Complete%29.bin|Cop (PAL, Beta, Complete).bin|2007-10-23 00:56:28| size|201693408| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Cop%20%28PAL%2C%20Beta%2C%20Complete%29.cue|Cop (PAL, Beta, Complete).cue|2010-02-27 22:02:26| size|606| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Gal%20%28Sega%20CD%29%20%28U%29.bin|Gal (Sega CD) (U).bin|1996-12-25 05:32:00| size|300590304| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Gal%20%28Sega%20CD%29%20%28U%29.cue|Gal (Sega CD) (U).cue|1996-12-25 05:32:00| size|162| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Masked%20Raider%3B%20Kamen%20Raider%20%28US%29%20-%20Track%2001.iso|Masked Raider; Kamen Raider (US) - Track 01.iso|2002-09-18 15:51:52| size|384094208| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Masked%20Raider%3B%20Kamen%20Raider%20%28US%29%20-%20Track%2002.mp3|Masked Raider; Kamen Raider (US) - Track 02.mp3|2002-09-18 16:13:22| size|264567| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Masked%20Raider%3B%20Kamen%20Raider%20%28US%29%20-%20Track%2003.mp3|Masked Raider; Kamen Raider (US) - Track 03.mp3|2002-09-18 16:13:02| size|247012| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Masked%20Raider%3B%20Kamen%20Raider%20%28US%29%20-%20Track%2004.mp3|Masked Raider; Kamen Raider (US) - Track 04.mp3|2002-09-18 16:12:34| size|1039881| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Masked%20Raider%3B%20Kamen%20Raider%20%28US%29%20-%20Track%2005.mp3|Masked Raider; Kamen Raider (US) - Track 05.mp3|2002-09-18 16:11:48| size|208142| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Masked%20Raider%3B%20Kamen%20Raider%20%28US%29.cue|Masked Raider; Kamen Raider (US).cue|2003-04-11 18:43:00| size|582| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Park%20%281995%29%28Domark%29%28EU%29%20%5BT-88055-50%5D.cue|Park (1995)(Domark)(EU) [T-88055-50].cue|1996-12-25 04:32:00| size|10825| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Park%20%281995%29%28Domark%29%28EU%29%20%5BT-88055-50%5D.img|Park (1995)(Domark)(EU) [T-88055-50].img|1996-12-25 04:32:00| size|162650208| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Prime%20%28Sega%20CD%29%20%28U%29.cue|Prime (Sega CD) (U).cue|1996-12-25 05:32:00| size|1150| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Pursuit%20%281994%29%28Parker%20Brothers%29%28NTSC%29%28US%29%5BSEGAT89015%20R1J%5D.bin|Pursuit (1994)(Parker Brothers)(NTSC)(US)[SEGAT89015 R1J].bin|1996-12-25 05:32:00| size|483992208| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Pursuit%20%281994%29%28Parker%20Brothers%29%28NTSC%29%28US%29%5BSEGAT89015%20R1J%5D.cue|Pursuit (1994)(Parker Brothers)(NTSC)(US)[SEGAT89015 R1J].cue|1996-12-25 05:32:00| size|216| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/TOMCAT%20ALLEY%20%28U%29.BIN|TOMCAT ALLEY (U).BIN|1996-12-25 05:32:00| size|569741424| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/Ultraverse%20Prime%20%28Sega%20CD%29%20%28U%29.bin|Ultraverse Prime (Sega CD) (U).bin|1996-12-25 05:32:00| size|418082112| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/World%20War%20%28Sega%20CD%29%20%28U%29.bin|World War (Sega CD) (U).bin|1996-12-25 05:32:00| size|491168160| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-T-V.7z/World%20War%20%28Sega%20CD%29%20%28U%29.cue|World War (Sega CD) (U).cue|1996-12-25 05:32:00| size|3949| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/%28U%29.bin|(U).bin|2016-04-12 03:26:07| size|384681360| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/%28U%29.cue|(U).cue|2016-04-12 03:26:08| size|742| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Collection%20%28Bundled%20with%20Victor%20WonderMega%20RG-M1%29%20%281992%29%28Victor%29%28JP%29%20%5BT-60064-10%5D.cue|Collection (Bundled with Victor WonderMega RG-M1) (1992)(Victor)(JP) [T-60064-10].cue|1996-12-25 06:32:00| size|19677| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Collection%20%28Bundled%20with%20Victor%20WonderMega%20RG-M1%29%20%281992%29%28Victor%29%28JP%29%20%5BT-60064-10%5D.img|Collection (Bundled with Victor WonderMega RG-M1) (1992)(Victor)(JP) [T-60064-10].img|1996-12-25 06:32:00| size|614841024| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Commander%20%28U%29.bin|Commander (U).bin|2016-04-12 03:43:19| size|453990096| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Commander%20%28U%29.cue|Commander (U).cue|2016-04-12 03:43:20| size|542| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Cup%20USA%20%2794%20%28U%29.cue|Cup USA '94 (U).cue|2016-04-12 03:09:50| size|1198| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Dog%20%28U%29.bin|Dog (U).bin|2016-04-12 03:22:00| size|600089280| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Dog%20%28U%29.cue|Dog (U).cue|2016-04-12 03:22:01| size|1383| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Rage%20in%20the%20Cage%20%28U%29.cue|Rage in the Cage (U).cue|2016-04-12 02:58:56| size|177| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Shot%20Johnny%20Rock%20%28U%29.bin|Shot Johnny Rock (U).bin|2016-04-12 03:46:38| size|250485648| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Shot%20Johnny%20Rock%20%28U%29.cue|Shot Johnny Rock (U).cue|2016-04-12 03:46:40| size|177| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/WWF%20Rage%20in%20the%20Cage%20%28U%29.bin|WWF Rage in the Cage (U).bin|2016-04-12 02:58:55| size|247604448| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Woody%20%28U%29.bin|Woody (U).bin|2016-04-12 03:45:57| size|545755728| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/Woody%20%28U%29.cue|Woody (U).cue|2016-04-12 03:45:58| size|1255| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/World%20Cup%20USA%20%2794%20%28U%29.bin|World Cup USA '94 (U).bin|2016-04-12 03:09:49| size|641223408| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/of%20Fortune%20%28U%29.bin|of Fortune (U).bin|2016-04-12 03:51:06| size|144403392| 
+|https://archive.org/download/SegaCDCollection/Sega-CD-W.7z/of%20Fortune%20%28U%29.cue|of Fortune (U).cue|2016-04-12 03:51:07| size|557| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
