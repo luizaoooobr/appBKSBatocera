@@ -1,0 +1,14 @@
+[
+  { "core" : "fbneo_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Final Burn Neo Ultima.Versao", "ativo" : "s", "link" : "https://buildbot.libretro.com/nightly/linux/x86_64/latest/"},
+  { "core" : "fbneo_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Final Burn Neo RT 1.14.0", "ativo" : "s", "link" : "https://archive.org/download/fbneo_libretro.so_1_14.0/"},
+  { "core" : "fbneo_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Final Burn Neo RT 1.10.3", "ativo" : "s", "link" : "https://archive.org/download/rt1.10.3_fbneo_libretro.so/"},
+  { "core" : "fbneo_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Final Burn Neo RT 1.10.2", "ativo" : "s", "link" : "https://archive.org/download/fbneo_libretro.so_rt1102/"},
+  { "core" : "snes9x_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Snes9x Ultima.Versao", "ativo" : "s", "link" : "https://buildbot.libretro.com/nightly/linux/x86_64/latest/"},
+  { "core" : "fbalpha2012_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "fbalpha2012 Ultima.Versao", "ativo" : "s", "link" : "https://buildbot.libretro.com/nightly/linux/x86_64/latest/"},
+  { "core" : "fbneo_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Final Burn Neo Base Base", "ativo" : "n", "link" : "https://archive.org/download/fbneo_libretro_basert7364/"},
+  { "core" : "fbneo_libretro.so", "base" : "batocera", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Final Burn Neo Base Batocera31", "ativo" : "n", "link" : "https://archive.org/download/fbneo_libretrobt3164/"},
+  { "core" : "snes9x_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Snes9x Neo Base Base", "ativo" : "n", "link" : "https://archive.org/download/snes9x_libretro_basert7364/"},
+  { "core" : "mednafen_psx_hw_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Beatle PSX HW", "ativo" : "s", "link" : "https://buildbot.libretro.com/nightly/linux/x86_64/latest/"},
+  { "core" : "mednafen_psx_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Beatle PSX", "ativo" : "s", "link" : "https://buildbot.libretro.com/nightly/linux/x86_64/latest/"},
+  { "core" : "pcsx_rearmed_libretro.so", "base" : "recalbox", "dir" : "/userdata/", "pasta":"extractions", "atualiza" : "s", "descricao" : "Pcsx Rearmed", "ativo" : "s", "link" : "https://buildbot.libretro.com/nightly/linux/x86_64/latest/"} 
+] 

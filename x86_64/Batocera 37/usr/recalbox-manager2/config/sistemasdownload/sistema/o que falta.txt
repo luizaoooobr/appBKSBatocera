@@ -1,0 +1,7 @@
+gamegear
+mastersistem
+megadrive
+neogeo
+neogeocd
+
+

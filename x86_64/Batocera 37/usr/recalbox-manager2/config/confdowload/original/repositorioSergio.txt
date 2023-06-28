@@ -1,0 +1,15 @@
+ basegbc2.7z
+
+
+https://sergiogracas.com/emular/repositorio/artfury/ - core fbneo
+https://sergiogracas.com/emular/repositorio/btmups/ - core fbneo
+https://sergiogracas.com/emular/repositorio/fbneo/ - core fbneo
+https://sergiogracas.com/emular/repositorio/hacks/ - core fbalpha_2012
+https://sergiogracas.com/emular/repositorio/hbmame/ - core hbmame
+https://sergiogracas.com/emular/repositorio/kof/ - core fbneo
+https://sergiogracas.com/emular/repositorio/mk/ - core fbneo
+https://sergiogracas.com/emular/repositorio/mslug/ - core fbneo
+https://sergiogracas.com/emular/repositorio/samurai/ - core fbneo
+https://sergiogracas.com/emular/repositorio/shmups/ - core fbneo
+https://sergiogracas.com/emular/repositorio/street/ - core fbneo
+https://sergiogracas.com/emular/repositorio/wheroes/ - core fbneo

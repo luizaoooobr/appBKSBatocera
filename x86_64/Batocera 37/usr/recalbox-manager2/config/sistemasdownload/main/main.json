@@ -1,0 +1,13 @@
+[
+{ "tela" : "lobby.html", "descricao" : "Download e Atualizador Emuladores(Online)","ativo" : "n" },
+{ "tela" : "maincore.html", "descricao" : "Download e Atualizador Emuladores(Online)","ativo" : "s" },
+{ "tela" : "tiratelapreta.html", "descricao" : "Tirar Tela Preta","ativo" : "s" },
+{ "tela" : "comandos.html", "descricao" : "Funcoes na gameplay","ativo" : "s" },
+{ "tela" : "comandos2.html", "descricao" : "Entrar ou passar a vez no netplay","ativo" : "s" },
+{ "tela" : "json2.html", "descricao" : "Capcom Netplay Rons Hacks","ativo" : "n" },
+{ "tela" : "json3.html", "descricao" : "Neogeo Netplay Rons Hacks","ativo" : "n" },
+{ "tela" : "download.html", "descricao" : "Downloads Ativos","ativo" : "s" },
+{ "tela" : "server.html", "descricao" : "Acionar GPIO - Para Bartop","ativo" : "s" },
+{ "tela" : "jogos.html", "descricao" : "Download de Jogos(baixar)","ativo" : "s" },
+{ "tela" : "Atuapp.html", "descricao" : "Atualizacao de App","ativo" : "s" }
+]

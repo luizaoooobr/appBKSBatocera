@@ -1,0 +1,1592 @@
+[
+  {
+    "letra": "NUM",
+    "game": "2020bb.zip",
+    "nome": "2020bb neogeo",
+    "tamanho": "           3M"
+  },
+  {
+    "letra": "NUM",
+    "game": "2020bba.zip",
+    "nome": "2020bba neogeo",
+    "tamanho": "        172K"
+  },
+  {
+    "letra": "NUM",
+    "game": "2020bbh.zip",
+    "nome": "2020bbh neogeo",
+    "tamanho": "        172K"
+  },
+  {
+    "letra": "NUM",
+    "game": "3countb.zip",
+    "nome": "3 Count Bout",
+    "tamanho": "          7M"
+  },
+  {
+    "letra": "A",
+    "game": "alpham2.zip",
+    "nome": "Alpha Mission 2",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "A",
+    "game": "androdun.zip",
+    "nome": "Andro Dunos",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "A",
+    "game": "aodk.zip",
+    "nome": "Aggressors of Dark Kombat",
+    "tamanho": "            10M"
+  },
+  {
+    "letra": "A",
+    "game": "aof.zip",
+    "nome": "Art of Fighting",
+    "tamanho": "              6M"
+  },
+  {
+    "letra": "A",
+    "game": "aof2.zip",
+    "nome": "Art of Fighting 2",
+    "tamanho": "            12M"
+  },
+  {
+    "letra": "A",
+    "game": "aof2a.zip",
+    "nome": "Art of Fighting 2 a",
+    "tamanho": "          226K"
+  },
+  {
+    "letra": "A",
+    "game": "aof3.zip",
+    "nome": "Art of Fighting 3",
+    "tamanho": "            16M"
+  },
+  {
+    "letra": "A",
+    "game": "aof3k.zip",
+    "nome": "Art of Fighting 3 Aniversário",
+    "tamanho": "          165K"
+  },
+  {
+    "letra": "B",
+    "game": "bakatono.zip",
+    "nome": "Bakatono Sama Mahjong Man'yuki",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "B",
+    "game": "bangbead.zip",
+    "nome": "bangbead",
+    "tamanho": "        20M"
+  },
+  {
+    "letra": "B",
+    "game": "bjourney.zip",
+    "nome": "Blue's Journey",
+    "tamanho": "3M"
+  },
+  {
+    "letra": "B",
+    "game": "blazstar.zip",
+    "nome": "Blazing Star",
+    "tamanho": "        21M"
+  },
+  {
+    "letra": "B",
+    "game": "bngbeadn.zip",
+    "nome": "bngbeadn.zip",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "B",
+    "game": "breakers.zip",
+    "nome": "Breakers",
+    "tamanho": "        13M"
+  },
+  {
+    "letra": "B",
+    "game": "breakrev.zip",
+    "nome": "Breakers Revenge",
+    "tamanho": "        15M"
+  },
+  {
+    "letra": "B",
+    "game": "bstars.zip",
+    "nome": "Baseball Stars",
+    "tamanho": "           3M"
+  },
+  {
+    "letra": "B",
+    "game": "bstars2.zip",
+    "nome": "Baseball Stars 2",
+    "tamanho": "          4M"
+  },
+  {
+    "letra": "B",
+    "game": "burningf.zip",
+    "nome": "Burning Fight",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "B",
+    "game": "burningfh.zip",
+    "nome": "Burning Fight Hack",
+    "tamanho": "      159K"
+  },
+  {
+    "letra": "C",
+    "game": "crsword.zip",
+    "nome": "Crossed Swords",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "C",
+    "game": "ct2k3sa.zip",
+    "nome": "Crouching Tiger Hidden Dragon 2003",
+    "tamanho": "         25M"
+  },
+  {
+    "letra": "C",
+    "game": "ct2k3sp.zip",
+    "nome": "Crouching Tiger Hidden Dragon 2003 Plus",
+    "tamanho": "         25M"
+  },
+  {
+    "letra": "C",
+    "game": "cthd2003.zip",
+    "nome": "Crouching Tiger Hidden Dragon 2003 Plus 2",
+    "tamanho": "        25M"
+  },
+  {
+    "letra": "C",
+    "game": "ctomaday.zip",
+    "nome": "Captain Tomaday",
+    "tamanho": "         6M"
+  },
+  {
+    "letra": "C",
+    "game": "cyberlip.zip",
+    "nome": "Cyber-Lip",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "D",
+    "game": "diggerma.zip",
+    "nome": "Diggerma",
+    "tamanho": "       364K"
+  },
+  {
+    "letra": "D",
+    "game": "doubledr.zip",
+    "nome": "Double Dragon NeoGeo",
+    "tamanho": "         9M"
+  },
+  {
+    "letra": "E",
+    "game": "eightman.zip",
+    "nome": "Eight Man",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "F",
+    "game": "fatfursa.zip",
+    "nome": "Fatal Fury Special",
+    "tamanho": "       213K"
+  },
+  {
+    "letra": "F",
+    "game": "fatfursp.zip",
+    "nome": "Fatal Fury Special",
+    "tamanho": "        11M"
+  },
+  {
+    "letra": "F",
+    "game": "fatfury1.zip",
+    "nome": "Fatal Fury King of Fighters",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "F",
+    "game": "fatfury2.zip",
+    "nome": "Fatal Fury 2",
+    "tamanho": "         8M"
+  },
+  {
+    "letra": "F",
+    "game": "fatfury3.zip",
+    "nome": "Fatal Fury 3",
+    "tamanho": "        19M"
+  },
+  {
+    "letra": "F",
+    "game": "fbfrenzy.zip",
+    "nome": "Football Frenzy",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "F",
+    "game": "fightfev.zip",
+    "nome": "fight fever",
+    "tamanho": "         6M"
+  },
+  {
+    "letra": "F",
+    "game": "fightfeva.zip",
+    "nome": "fight fever a",
+    "tamanho": "      242K"
+  },
+  {
+    "letra": "F",
+    "game": "flipshot.zip",
+    "nome": "Battle Flip Shot",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "F",
+    "game": "fswords.zip",
+    "nome": "Fighters Swords",
+    "tamanho": "          1M"
+  },
+  {
+    "letra": "G",
+    "game": "galaxyfg.zip",
+    "nome": "galaxy fight",
+    "tamanho": "        10M"
+  },
+  {
+    "letra": "G",
+    "game": "ganryu.zip",
+    "nome": "ganryu",
+    "tamanho": "          18M"
+  },
+  {
+    "letra": "G",
+    "game": "ganryun.zip",
+    "nome": "ganryun",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "G",
+    "game": "garou.zip",
+    "nome": "Garou Mark of the Wolves",
+    "tamanho": "           77M"
+  },
+  {
+    "letra": "G",
+    "game": "garoubl.zip",
+    "nome": "Garou Mark of the Wolves",
+    "tamanho": "         37M"
+  },
+  {
+    "letra": "G",
+    "game": "garoun.zip",
+    "nome": "Garou Mark of the Wolves",
+    "tamanho": "          22M"
+  },
+  {
+    "letra": "G",
+    "game": "garouo.zip",
+    "nome": "Garou Mark of the Wolves",
+    "tamanho": "           3M"
+  },
+  {
+    "letra": "G",
+    "game": "garoup.zip",
+    "nome": "Garou Mark of the Wolves",
+    "tamanho": "          37M"
+  },
+  {
+    "letra": "G",
+    "game": "ghostlop.zip",
+    "nome": "Ghost Pilots",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "G",
+    "game": "goalx3.zip",
+    "nome": "Goal! Goal! Goal!",
+    "tamanho": "           5M"
+  },
+  {
+    "letra": "G",
+    "game": "gowcaizr.zip",
+    "nome": "Voltage Fighter - Gowcaizer",
+    "tamanho": "        12M"
+  },
+  {
+    "letra": "G",
+    "game": "gpilots.zip",
+    "nome": "Ghost Pilots",
+    "tamanho": "          4M"
+  },
+  {
+    "letra": "G",
+    "game": "gpilotsh.zip",
+    "nome": "Ghost Pilots hack",
+    "tamanho": "       169K"
+  },
+  {
+    "letra": "G",
+    "game": "gururin.zip",
+    "nome": "gururin",
+    "tamanho": "        889K"
+  },
+  {
+    "letra": "I",
+    "game": "irrmaze.zip",
+    "nome": "The Irritating Maza",
+    "tamanho": "          4M"
+  },
+  {
+    "letra": "J",
+    "game": "janshin.zip",
+    "nome": "Janshin Densetsu: Quest of Jongmaster",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "J",
+    "game": "jockeygp.zip",
+    "nome": "Jockey Grandprix",
+    "tamanho": "        16M"
+  },
+  {
+    "letra": "J",
+    "game": "joyjoy.zip",
+    "nome": "joy joy neogeo",
+    "tamanho": "           1M"
+  },
+  {
+    "letra": "K",
+    "game": "kabukikl.zip",
+    "nome": "Kabuki Klash",
+    "tamanho": "        12M"
+  },
+  {
+    "letra": "K",
+    "game": "karnovr.zip",
+    "nome": "Karnov's Revenge",
+    "tamanho": "          7M"
+  },
+  {
+    "letra": "K",
+    "game": "kf10thep.zip",
+    "nome": "The King of Fighters 10th Anniversary",
+    "tamanho": "        41M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k2mp.zip",
+    "nome": "The King of Fighters 2002 Magic Plus",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k2mp2.zip",
+    "nome": "The King of Fighters 2002 Magic Plus 2",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k2pla.zip",
+    "nome": "The King of Fighters 2002 Magic Plus",
+    "tamanho": "       372K"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k2pls.zip",
+    "nome": "The King of Fighters 2002 Magic Plus",
+    "tamanho": "       374K"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k3bl.zip",
+    "nome": "The King of Fighters 2003 Magic Plus",
+    "tamanho": "          2M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k3bla.zip",
+    "nome": "The King of Fighters 2003 Magic Plus",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k3pcb.zip",
+    "nome": "The King of Fighters 2003 Magic Plus",
+    "tamanho": "        91M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k3pl.zip",
+    "nome": "The King of Fighters 2003 Magic Plus",
+    "tamanho": "          4M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k3upl.zip",
+    "nome": "The King of Fighters 2003 Magic Plus",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "K",
+    "game": "kf2k5uni.zip",
+    "nome": "The King of Fighters 2005",
+    "tamanho": "        41M"
+  },
+  {
+    "letra": "K",
+    "game": "kizuna.zip",
+    "nome": "Kizuna Encounter",
+    "tamanho": "          16M"
+  },
+  {
+    "letra": "K",
+    "game": "kof10th.zip",
+    "nome": "The King of Fighters 10th Anniversary",
+    "tamanho": "         42M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2000.zip",
+    "nome": "The King of Fighters 2000",
+    "tamanho": "         78M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2000n.zip",
+    "nome": "The King of Fighters 2000 Magic Plus",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2001.zip",
+    "nome": "The King of Fighters 2001",
+    "tamanho": "         76M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2001h.zip",
+    "nome": "The King of Fighters 2001 Magic Plus",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2002.zip",
+    "nome": "The King of Fighters 2002",
+    "tamanho": "         79M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2002b.zip",
+    "nome": "The King of Fighters 2002 B",
+    "tamanho": "        26M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2003.zip",
+    "nome": "The King of Fighters 2003",
+    "tamanho": "         80M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2003h.zip",
+    "nome": "The King of Fighters 2003 Hack",
+    "tamanho": "        65M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2k1nd.zip",
+    "nome": "The King of Fighters 2003 nd",
+    "tamanho": "        24M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2k2nd.zip",
+    "nome": "The King of Fighters 2002 nd",
+    "tamanho": "        24M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2k3nd.zip",
+    "nome": "The King of Fighters 2003 nd",
+    "tamanho": "        24M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2k4se.zip",
+    "nome": "The King of Fighters: Special Edition 2004",
+    "tamanho": "        39M"
+  },
+  {
+    "letra": "K",
+    "game": "kof2knd.zip",
+    "nome": "The King of Fighters 2000 nd",
+    "tamanho": "         24M"
+  },
+  {
+    "letra": "K",
+    "game": "kof94.zip",
+    "nome": "The King of Fighters 94",
+    "tamanho": "           12M"
+  },
+  {
+    "letra": "K",
+    "game": "kof95.zip",
+    "nome": "The King of Fighters 95",
+    "tamanho": "           15M"
+  },
+  {
+    "letra": "K",
+    "game": "kof95h.zip",
+    "nome": "The King of Fighters 95 Hacks",
+    "tamanho": "         721K"
+  },
+  {
+    "letra": "K",
+    "game": "kof96.zip",
+    "nome": "The King of Fighters 96",
+    "tamanho": "           22M"
+  },
+  {
+    "letra": "K",
+    "game": "kof96h.zip",
+    "nome": "The King of Fighters 96 Hack",
+    "tamanho": "         330K"
+  },
+  {
+    "letra": "K",
+    "game": "kof97.zip",
+    "nome": "The King of Fighters 97",
+    "tamanho": "           27M"
+  },
+  {
+    "letra": "K",
+    "game": "kof97a.zip",
+    "nome": "The King of Fighters 97 a",
+    "tamanho": "         303K"
+  },
+  {
+    "letra": "K",
+    "game": "kof97pls.zip",
+    "nome": "The King of Fighters 97 Magic Plus",
+    "tamanho": "         1M"
+  },
+  {
+    "letra": "K",
+    "game": "kof98.zip",
+    "nome": "The King of Fighters 98",
+    "tamanho": "           39M"
+  },
+  {
+    "letra": "K",
+    "game": "kof98k.zip",
+    "nome": "The King of Fighters 98 K",
+    "tamanho": "          86K"
+  },
+  {
+    "letra": "K",
+    "game": "kof98n.zip",
+    "nome": "The King of Fighters 98 n",
+    "tamanho": "         408K"
+  },
+  {
+    "letra": "K",
+    "game": "kof99.zip",
+    "nome": "The King of Fighters 99",
+    "tamanho": "           75M"
+  },
+  {
+    "letra": "K",
+    "game": "kof99a.zip",
+    "nome": "The King of Fighters 97 a",
+    "tamanho": "         689K"
+  },
+  {
+    "letra": "K",
+    "game": "kof99e.zip",
+    "nome": "The King of Fighters 99 e",
+    "tamanho": "           3M"
+  },
+  {
+    "letra": "K",
+    "game": "kof99n.zip",
+    "nome": "The King of Fighters 99 n",
+    "tamanho": "           1M"
+  },
+  {
+    "letra": "K",
+    "game": "kof99nd.zip",
+    "nome": "The King of Fighters 99 nd",
+    "tamanho": "         22M"
+  },
+  {
+    "letra": "K",
+    "game": "kof99p.zip",
+    "nome": "The King of Fighters 99 p",
+    "tamanho": "          22M"
+  },
+  {
+    "letra": "K",
+    "game": "kofse2k4.zip",
+    "nome": "The King of Fighters Special 2004",
+    "tamanho": "        39M"
+  },
+  {
+    "letra": "K",
+    "game": "kog.zip",
+    "nome": "kog",
+    "tamanho": "             17M"
+  },
+  {
+    "letra": "K",
+    "game": "kotm.zip",
+    "nome": "King of the Monsters",
+    "tamanho": "             4M"
+  },
+  {
+    "letra": "K",
+    "game": "kotm2.zip",
+    "nome": "King of the Monsters 2",
+    "tamanho": "            5M"
+  },
+  {
+    "letra": "K",
+    "game": "kotmh.zip",
+    "nome": "King of the Monsters Hack",
+    "tamanho": "          164K"
+  },
+  {
+    "letra": "L",
+    "game": "lans2004.zip",
+    "nome": "Lansquenet 2004",
+    "tamanho": "        28M"
+  },
+  {
+    "letra": "L",
+    "game": "lastblad.zip",
+    "nome": "Last Blade",
+    "tamanho": "        25M"
+  },
+  {
+    "letra": "L",
+    "game": "lastbladh.zip",
+    "nome": "Last Blade Hack",
+    "tamanho": "      263K"
+  },
+  {
+    "letra": "L",
+    "game": "lastbld2.zip",
+    "nome": "Last Blade 2",
+    "tamanho": "        31M"
+  },
+  {
+    "letra": "L",
+    "game": "lastsold.zip",
+    "nome": "Last Soldier",
+    "tamanho": "       265K"
+  },
+  {
+    "letra": "L",
+    "game": "lbowling.zip",
+    "nome": "League Bowling",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "L",
+    "game": "legendos.zip",
+    "nome": "Legend of Success Joe",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "L",
+    "game": "lresort.zip",
+    "nome": "Last Resort",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "M",
+    "game": "magdrop2.zip",
+    "nome": "Magical Drop 2",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "M",
+    "game": "magdrop3.zip",
+    "nome": "Magical Drop 3",
+    "tamanho": "         8M"
+  },
+  {
+    "letra": "M",
+    "game": "maglord.zip",
+    "nome": "Magician Lord",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "M",
+    "game": "maglordh.zip",
+    "nome": "Magician Lord Hack",
+    "tamanho": "       189K"
+  },
+  {
+    "letra": "M",
+    "game": "mahretsu.zip",
+    "nome": "mahretsu.zip",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "M",
+    "game": "marukodq.zip",
+    "nome": "Mahjong Kyōretsuden: Nishi Nihon Hen",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "M",
+    "game": "matrim.zip",
+    "nome": "Matrimelee",
+    "tamanho": "          79M"
+  },
+  {
+    "letra": "M",
+    "game": "matrimbl.zip",
+    "nome": "Matrimelee",
+    "tamanho": "        32M"
+  },
+  {
+    "letra": "M",
+    "game": "matrimnd.zip",
+    "nome": "Matrimelee",
+    "tamanho": "        17M"
+  },
+  {
+    "letra": "M",
+    "game": "miexchng.zip",
+    "nome": "Miexchng",
+    "tamanho": "         5M"
+  },
+  {
+    "letra": "M",
+    "game": "minasan.zip",
+    "nome": "Minasan Mahjong",
+    "tamanho": "          2M"
+  },
+  {
+    "letra": "M",
+    "game": "mosyougi.zip",
+    "nome": "Syougi No Tatsujin - Master of Syougi",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "M",
+    "game": "ms4plus.zip",
+    "nome": "Metal Slug 4 Plus.zip",
+    "tamanho": "        411K"
+  },
+  {
+    "letra": "M",
+    "game": "ms5pcb.zip",
+    "nome": "Metal Slug 5 Hack.zip",
+    "tamanho": "          71M"
+  },
+  {
+    "letra": "M",
+    "game": "ms5plus.zip",
+    "nome": "Metal Slug 4 Plus",
+    "tamanho": "          1M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug.zip",
+    "nome": "Metal Slug",
+    "tamanho": "           13M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug2.zip",
+    "nome": "Metal Slug 2",
+    "tamanho": "          17M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug3.zip",
+    "nome": "Metal Slug 3",
+    "tamanho": "          77M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug3b6.zip",
+    "nome": "Metal Slug 3 Hack",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug3h.zip",
+    "nome": "Metal Slug 3 Hack",
+    "tamanho": "          2M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug3nd.zip",
+    "nome": "Metal Slug 3 nd",
+    "tamanho": "        21M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug4.zip",
+    "nome": "Metal Slug 4",
+    "tamanho": "          60M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug4nd.zip",
+    "nome": "Metal Slug 4 nd",
+    "tamanho": "        14M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug5.zip",
+    "nome": "Metal Slug 5",
+    "tamanho": "          77M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug5h.zip",
+    "nome": "Metal Slug 5 Hack",
+    "tamanho": "          2M"
+  },
+  {
+    "letra": "M",
+    "game": "mslug5nd.zip",
+    "nome": "Metal Slug 5 nd",
+    "tamanho": "        14M"
+  },
+  {
+    "letra": "M",
+    "game": "mslugx.zip",
+    "nome": "Metal Slug X",
+    "tamanho": "          27M"
+  },
+  {
+    "letra": "M",
+    "game": "mutnat.zip",
+    "nome": "Mutation Nation",
+    "tamanho": "           4M"
+  },
+  {
+    "letra": "N",
+    "game": "nam1975.zip",
+    "nome": "Nam 1975",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "N",
+    "game": "ncombat.zip",
+    "nome": "Ninja Combat",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "N",
+    "game": "ncombath.zip",
+    "nome": "Ninja Combat Hack",
+    "tamanho": "       200K"
+  },
+  {
+    "letra": "N",
+    "game": "ncommand.zip",
+    "nome": "Ninja Commando",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "N",
+    "game": "neobombe.zip",
+    "nome": "Neo Bomberman.zip",
+    "tamanho": "         6M"
+  },
+  {
+    "letra": "N",
+    "game": "neocup98.zip",
+    "nome": "NeoCup98",
+    "tamanho": "        10M"
+  },
+  {
+    "letra": "N",
+    "game": "neodrift.zip",
+    "nome": "Neo Drift Out",
+    "tamanho": "         8M"
+  },
+  {
+    "letra": "N",
+    "game": "neomrdo.zip",
+    "nome": "Neo Mr. Do",
+    "tamanho": "          2M"
+  },
+  {
+    "letra": "N",
+    "game": "neonopon.zip",
+    "nome": "Neo No Panepon",
+    "tamanho": "        23K"
+  },
+  {
+    "letra": "N",
+    "game": "neonopon1.zip",
+    "nome": "Neo No Panepon",
+    "tamanho": "       16K"
+  },
+  {
+    "letra": "N",
+    "game": "neonopon2.zip",
+    "nome": "Neo No Panepon 2",
+    "tamanho": "       14K"
+  },
+  {
+    "letra": "N",
+    "game": "neonopon3.zip",
+    "nome": "Neo No Panepon 3",
+    "tamanho": "       14K"
+  },
+  {
+    "letra": "N",
+    "game": "neopong.zip",
+    "nome": "Neo Pong",
+    "tamanho": "          2M"
+  },
+  {
+    "letra": "N",
+    "game": "neopong10.zip",
+    "nome": "Neo Pong10",
+    "tamanho": "      500K"
+  },
+  {
+    "letra": "N",
+    "game": "ninjamas.zip",
+    "nome": "Ninja Master.zip",
+    "tamanho": "        17M"
+  },
+  {
+    "letra": "N",
+    "game": "nitd.zip",
+    "nome": "Nightmare in the Dark",
+    "tamanho": "            17M"
+  },
+  {
+    "letra": "N",
+    "game": "nitdbl.zip",
+    "nome": "Nightmare in the Dark",
+    "tamanho": "           5M"
+  },
+  {
+    "letra": "N",
+    "game": "nitdn.zip",
+    "nome": "Nightmare in the Dark",
+    "tamanho": "            2M"
+  },
+  {
+    "letra": "O",
+    "game": "overtop.zip",
+    "nome": "Over Top",
+    "tamanho": "         12M"
+  },
+  {
+    "letra": "P",
+    "game": "panicbom.zip",
+    "nome": "Panic Bomber",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "P",
+    "game": "pbobbl2n.zip",
+    "nome": "Puzzle Bobble 2",
+    "tamanho": "         8M"
+  },
+  {
+    "letra": "P",
+    "game": "pbobblen.zip",
+    "nome": "Puzzle Bobble",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "P",
+    "game": "pbobblena.zip",
+    "nome": "Puzzle Bobble",
+    "tamanho": "       94K"
+  },
+  {
+    "letra": "P",
+    "game": "pgoal.zip",
+    "nome": "Pleasure Goal",
+    "tamanho": "            7M"
+  },
+  {
+    "letra": "P",
+    "game": "pnyaa.zip",
+    "nome": "Pochi and Nyaa",
+    "tamanho": "           20M"
+  },
+  {
+    "letra": "P",
+    "game": "popbounc.zip",
+    "nome": "Pop n Bounce",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "P",
+    "game": "preisl2n.zip",
+    "nome": "Prehistoric Isle 2n",
+    "tamanho": "        19M"
+  },
+  {
+    "letra": "P",
+    "game": "preisle2.zip",
+    "nome": "Prehistoric Isle 2",
+    "tamanho": "        52M"
+  },
+  {
+    "letra": "P",
+    "game": "pspikes2.zip",
+    "nome": "Power Spikes 2",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "P",
+    "game": "pulstar.zip",
+    "nome": "Pulstar",
+    "tamanho": "         18M"
+  },
+  {
+    "letra": "P",
+    "game": "puzzldpr.zip",
+    "nome": "Puzzle de Pon R",
+    "tamanho": "       155K"
+  },
+  {
+    "letra": "P",
+    "game": "puzzledp.zip",
+    "nome": "Puzzle de Pon",
+    "tamanho": "       751K"
+  },
+  {
+    "letra": "Q",
+    "game": "quizdai2.zip",
+    "nome": "Quiz Meitantei 2",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "Q",
+    "game": "quizdais.zip",
+    "nome": "Quiz Daisousa Sen - The Last Count Down",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "Q",
+    "game": "quizkof.zip",
+    "nome": "Quiz King of Fighters",
+    "tamanho": "          8M"
+  },
+  {
+    "letra": "R",
+    "game": "ragnagrd.zip",
+    "nome": "Ragnagard",
+    "tamanho": "        22M"
+  },
+  {
+    "letra": "R",
+    "game": "rbff1.zip",
+    "nome": "Real Bout Fatal Fury",
+    "tamanho": "           23M"
+  },
+  {
+    "letra": "R",
+    "game": "rbff1a.zip",
+    "nome": "Real Bout Fatal Fury",
+    "tamanho": "         190K"
+  },
+  {
+    "letra": "R",
+    "game": "rbff2.zip",
+    "nome": "Real Bout Fatal Fury 2",
+    "tamanho": "           28M"
+  },
+  {
+    "letra": "R",
+    "game": "rbff2h.zip",
+    "nome": "Real Bout Fatal Fury 2",
+    "tamanho": "         338K"
+  },
+  {
+    "letra": "R",
+    "game": "rbff2k.zip",
+    "nome": "Real Bout Fatal Fury 2",
+    "tamanho": "         338K"
+  },
+  {
+    "letra": "R",
+    "game": "rbffspec.zip",
+    "nome": "Real Bout Fatal Fury Special",
+    "tamanho": "        24M"
+  },
+  {
+    "letra": "R",
+    "game": "ridhero.zip",
+    "nome": "Riding Hero",
+    "tamanho": "          4M"
+  },
+  {
+    "letra": "R",
+    "game": "ridheroh.zip",
+    "nome": "Riding Hero H",
+    "tamanho": "       162K"
+  },
+  {
+    "letra": "R",
+    "game": "roboarmy.zip",
+    "nome": "Robo Army",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "R",
+    "game": "rotd.zip",
+    "nome": "Rage of the Dragons",
+    "tamanho": "            73M"
+  },
+  {
+    "letra": "R",
+    "game": "rotdnd.zip",
+    "nome": "Rage of the Dragons nd",
+    "tamanho": "          12M"
+  },
+  {
+    "letra": "S",
+    "game": "s1945p.zip",
+    "nome": "Strikers 1945 Plus",
+    "tamanho": "          74M"
+  },
+  {
+    "letra": "S",
+    "game": "s1945pn.zip",
+    "nome": "Strikers 1945 Plus n",
+    "tamanho": "         14M"
+  },
+  {
+    "letra": "S",
+    "game": "samsh5nd.zip",
+    "nome": "Samurai Shodown V nd",
+    "tamanho": "        23M"
+  },
+  {
+    "letra": "S",
+    "game": "samsh5sp.zip",
+    "nome": "Samurai Shodown V plus",
+    "tamanho": "        79M"
+  },
+  {
+    "letra": "S",
+    "game": "samsh5sph.zip",
+    "nome": "Samurai Shodown V plus h",
+    "tamanho": "        2M"
+  },
+  {
+    "letra": "S",
+    "game": "samsh5spn.zip",
+    "nome": "Samurai Shodown V plus n",
+    "tamanho": "        2M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho.zip",
+    "nome": "Samurai Shodown NeoGeo",
+    "tamanho": "           8M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho2.zip",
+    "nome": "Samurai Shodown 2",
+    "tamanho": "         14M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho3.zip",
+    "nome": "Samurai Shodown 3",
+    "tamanho": "         17M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho3h.zip",
+    "nome": "Samurai Shodown 3 H",
+    "tamanho": "         1M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho4.zip",
+    "nome": "Samurai Shodown 4",
+    "tamanho": "         22M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho5.zip",
+    "nome": "Samurai Shodown 5",
+    "tamanho": "         79M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho5b.zip",
+    "nome": "Samurai Shodown V 5b",
+    "tamanho": "        39M"
+  },
+  {
+    "letra": "S",
+    "game": "samsho5h.zip",
+    "nome": "Samurai Shodown 5 H",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "S",
+    "game": "samshoh.zip",
+    "nome": "Samurai Shodown Hack",
+    "tamanho": "        781K"
+  },
+  {
+    "letra": "S",
+    "game": "savagere.zip",
+    "nome": "Savage Reign",
+    "tamanho": "        13M"
+  },
+  {
+    "letra": "S",
+    "game": "sdodgeb.zip",
+    "nome": "Super Dodge Ball",
+    "tamanho": "          7M"
+  },
+  {
+    "letra": "S",
+    "game": "sengokh.zip",
+    "nome": "Sengoku H",
+    "tamanho": "        161K"
+  },
+  {
+    "letra": "S",
+    "game": "sengoku.zip",
+    "nome": "Sengoku",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "S",
+    "game": "sengoku2.zip",
+    "nome": "Sengoku 2",
+    "tamanho": "         5M"
+  },
+  {
+    "letra": "S",
+    "game": "sengoku3.zip",
+    "nome": "Sengoku 3",
+    "tamanho": "        43M"
+  },
+  {
+    "letra": "S",
+    "game": "shocktr2.zip",
+    "nome": "Shock Troopers 2nd Squad",
+    "tamanho": "        27M"
+  },
+  {
+    "letra": "S",
+    "game": "shocktra.zip",
+    "nome": "Shock Troopers Neogeo",
+    "tamanho": "       273K"
+  },
+  {
+    "letra": "S",
+    "game": "shocktro.zip",
+    "nome": "Shock Troopers o",
+    "tamanho": "        19M"
+  },
+  {
+    "letra": "S",
+    "game": "sngoku3n.zip",
+    "nome": "Shock Troopers 3",
+    "tamanho": "         8M"
+  },
+  {
+    "letra": "S",
+    "game": "socbrawl.zip",
+    "nome": "Soccer Braw",
+    "tamanho": "         3M"
+  },
+  {
+    "letra": "S",
+    "game": "socbrawla.zip",
+    "nome": "Soccer Braw a",
+    "tamanho": "      102K"
+  },
+  {
+    "letra": "S",
+    "game": "sonicwi2.zip",
+    "nome": "Sonic Wings 2",
+    "tamanho": "         5M"
+  },
+  {
+    "letra": "S",
+    "game": "sonicwi3.zip",
+    "nome": "Sonic Wings 3",
+    "tamanho": "         9M"
+  },
+  {
+    "letra": "S",
+    "game": "spinmast.zip",
+    "nome": "Spin Master",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "S",
+    "game": "ss5shnd.zip",
+    "nome": "Samurai Shodown V Special",
+    "tamanho": "         23M"
+  },
+  {
+    "letra": "S",
+    "game": "ssideki.zip",
+    "nome": "Super Sidekicks",
+    "tamanho": "          3M"
+  },
+  {
+    "letra": "S",
+    "game": "ssideki2.zip",
+    "nome": "Super Sidekicks 2",
+    "tamanho": "         7M"
+  },
+  {
+    "letra": "S",
+    "game": "ssideki3.zip",
+    "nome": "Super Sidekicks 3",
+    "tamanho": "         9M"
+  },
+  {
+    "letra": "S",
+    "game": "ssideki4.zip",
+    "nome": "Super Sidekicks 4",
+    "tamanho": "        13M"
+  },
+  {
+    "letra": "S",
+    "game": "stakwin.zip",
+    "nome": "Stakes Winner",
+    "tamanho": "3M"
+  },
+  {
+    "letra": "S",
+    "game": "stakwin2.zip",
+    "nome": "Stakes Winner 2",
+    "tamanho": "        10M"
+  },
+  {
+    "letra": "S",
+    "game": "strhoop.zip",
+    "nome": "Street Hoop",
+    "tamanho": "          4M"
+  },
+  {
+    "letra": "S",
+    "game": "superspy.zip",
+    "nome": "The Super Spy",
+    "tamanho": "3M"
+  },
+  {
+    "letra": "S",
+    "game": "svc.zip",
+    "nome": "SVC Chaos: SNK vs Capcom",
+    "tamanho": "             79M"
+  },
+  {
+    "letra": "S",
+    "game": "svcboot.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom boot",
+    "tamanho": "         41M"
+  },
+  {
+    "letra": "S",
+    "game": "svcnd.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom nd",
+    "tamanho": "           25M"
+  },
+  {
+    "letra": "S",
+    "game": "svcpcb.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom pcb",
+    "tamanho": "          88M"
+  },
+  {
+    "letra": "S",
+    "game": "svcpcba.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom cba",
+    "tamanho": "         79M"
+  },
+  {
+    "letra": "S",
+    "game": "svcplus.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom plus",
+    "tamanho": "         41M"
+  },
+  {
+    "letra": "S",
+    "game": "svcplusa.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom plus a",
+    "tamanho": "        40M"
+  },
+  {
+    "letra": "S",
+    "game": "svcsplus.zip",
+    "nome": "SVC Chaos: SNK vs. Capcom special plus",
+    "tamanho": "        41M"
+  },
+  {
+    "letra": "T",
+    "game": "tophuntr.zip",
+    "nome": "Top Hunter: Roddy & Cathy",
+    "tamanho": "         7M"
+  },
+  {
+    "letra": "T",
+    "game": "tophuntra.zip",
+    "nome": "Top Hunter: Roddy & Cathy a",
+    "tamanho": "      384K"
+  },
+  {
+    "letra": "T",
+    "game": "tpgolf.zip",
+    "nome": "Top Players Golf",
+    "tamanho": "           4M"
+  },
+  {
+    "letra": "T",
+    "game": "trally.zip",
+    "nome": "Thrash Rally",
+    "tamanho": "           3M"
+  },
+  {
+    "letra": "T",
+    "game": "turfmast.zip",
+    "nome": "Neo Turf Masters",
+    "tamanho": "         9M"
+  },
+  {
+    "letra": "T",
+    "game": "twinspri.zip",
+    "nome": "Twinkle Star",
+    "tamanho": "         9M"
+  },
+  {
+    "letra": "T",
+    "game": "tws96.zip",
+    "nome": "Tecmo World Soccer 96",
+    "tamanho": "            6M"
+  },
+  {
+    "letra": "V",
+    "game": "viewpoin.zip",
+    "nome": "Viewpoint",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "V",
+    "game": "vliner.zip",
+    "nome": "V-Liner",
+    "tamanho": "         194K"
+  },
+  {
+    "letra": "V",
+    "game": "vlinero.zip",
+    "nome": "V-Linero",
+    "tamanho": "         35K"
+  },
+  {
+    "letra": "W",
+    "game": "wakuwak7.zip",
+    "nome": "waku waku 7",
+    "tamanho": "        13M"
+  },
+  {
+    "letra": "W",
+    "game": "wh1.zip",
+    "nome": "World Heroes",
+    "tamanho": "              5M"
+  },
+  {
+    "letra": "W",
+    "game": "wh1h.zip",
+    "nome": "World Heroes H",
+    "tamanho": "           332K"
+  },
+  {
+    "letra": "W",
+    "game": "wh1ha.zip",
+    "nome": "World Heroes a",
+    "tamanho": "          363K"
+  },
+  {
+    "letra": "W",
+    "game": "wh2.zip",
+    "nome": "World Heroes 2",
+    "tamanho": "              9M"
+  },
+  {
+    "letra": "W",
+    "game": "wh2j.zip",
+    "nome": "World Heroes 2 Jet",
+    "tamanho": "10M"
+  },
+  {
+    "letra": "W",
+    "game": "wh2jh.zip",
+    "nome": "World Heroes 2 Jet Hack",
+    "tamanho": "            6M"
+  },
+  {
+    "letra": "W",
+    "game": "whp.zip",
+    "nome": "World Heroes Perfec",
+    "tamanho": "             14M"
+  },
+  {
+    "letra": "W",
+    "game": "wjammers.zip",
+    "nome": "Wind Jammers",
+    "tamanho": "         4M"
+  },
+  {
+    "letra": "Z",
+    "game": "zedblade.zip",
+    "nome": "Zed Blade",
+    "tamanho": "         5M"
+  },
+  {
+    "letra": "Z",
+    "game": "zintrckb.zip",
+    "nome": "Zintrick",
+    "tamanho": "         2M"
+  },
+  {
+    "letra": "Z",
+    "game": "zintrkcd.zip",
+    "nome": "Zintrick cd",
+    "tamanho": "         1M"
+  },
+  {
+    "letra": "Z",
+    "game": "zupapa.zip",
+    "nome": "Zupapa",
+    "tamanho": "          17M"
+  },
+  {
+    "letra": "Z",
+    "game": "zupapan.zip",
+    "nome": "Zupapa n",
+    "tamanho": "          6M"
+  },
+  {
+    "letra": "tudo",
+    "game": "*",
+    "nome": "*",
+    "tamanho": "*"
+  }
+]

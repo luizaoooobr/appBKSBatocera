@@ -1,0 +1,5706 @@
+[
+  {
+    "sistema": "artfury",
+    "roms": "aof.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "6.3M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "aof2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "12M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "aof3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "16M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "fatfursp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "11M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "fatfury1.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "5.7M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "fatfury2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "9.4M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "fatfury3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "20M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "garou.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "rbff1.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "25M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "rbff2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "30M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "artfury",
+    "roms": "rbffspec.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/artfury/",
+    "tamanho": "26M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "64street.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "aliens.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "armwar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "asterix.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "avsp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "10M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "baddudes.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "444K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "batcir.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "bbusters.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "brapboys.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "5.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "bucky.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "5.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "burningf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "5.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "cbuster.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "crimfght.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "900K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ctribe.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ddcrew.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "3.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ddragon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "522K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ddragon2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "731K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ddragon3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ddsom.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "16M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ddtod.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "10M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "deathbrd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "4.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "denjinmk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "4.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "djboy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "dungeonm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "7.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "edrandy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "karatblz.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "kbashk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "knights.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "kod.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "kov.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "kov2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "26M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "kovplus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "kovsh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "23M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "legendos.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "3.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "lightbr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "7.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "metmqstr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "7.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "moomesa.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "4.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "mugsmash.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "mutantf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "4.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "mutnat.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "5.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "mwalk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ncombat.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "4.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "nmaster.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "7.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "nslasher.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "8.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "olds.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "oldsplus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "24M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "orlegend.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "pgm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ppan.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "sengoku.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "5.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "sengoku2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "6.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "sengoku3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "45M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "silentd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "silkroad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "12M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ssriders.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "5.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "ssridersebc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "theglad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "23M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "theroes.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "tophuntr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "8.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "uccops.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "3.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "vendetta.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "2.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "vigilant.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "433K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "viostorm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "8.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "warzard.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "37M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "btmups",
+    "roms": "wildfang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/btmups/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "3countb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "9.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "3wonders.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "abcop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "actfancr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "449K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "alexkidd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "297K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "aliencha.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "aliensyn.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "461K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "altbeast.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "830K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "amidar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "17K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "aodk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "aquajack.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "arkanoid.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "70K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "arkatour.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "67K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "arknoid2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "161K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "arkretrn.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "astyanax.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "asurabld.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "asurabus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "athena.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "142K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "aurail.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "avengers.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "350K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "avengrgs.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "avspirit.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "backfire.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "9.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "badlands.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "357K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bangball.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bangbead.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "21M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bankp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "66K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "baraduke.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "79K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "battroad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "69K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bayroute.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "684K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bbmanw.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "527K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bcstry.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "berabohm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "755K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bestbest.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "biomtoy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bionicc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "334K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bioship.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bishi.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bjourney.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bjtwin.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "blandia.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "blkheart.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "blktiger.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "331K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "blmbycar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "block.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "495K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bloodbro.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bloodstm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bloodwar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "blswhstl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "blzntrnd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bmaster.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bombjack.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "56K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bombkick.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bonkadv.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "breakers.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "breakrev.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "brubber.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "23K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bssoccer.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "btlkroadk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bub68705.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "178K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bubblem.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "bublbob2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "cabal.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "517K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "captaven.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "charlien.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "chasehq.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "chikij.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "chokchok.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "chqflag.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "chukatai.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "553K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "circusc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "61K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "citycon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "110K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "cninja.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "commando.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "132K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "contcirc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "contra.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "379K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crazyfgt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crimec.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "891K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crospang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "590K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crshrace.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crswd2bl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crsword.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "crzrally.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "57K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "csclub.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "cubybop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "346K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "cutefght.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "cyberlip.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "cybots.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "daimakai.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dankuga.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "daraku.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "21M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "darktowr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "369K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dblaxle.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dbldynj.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "deerhunt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "deluxe5.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dharma.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dietgo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "diggerma.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dinorex.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "diverboy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dondokod.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "946K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "doubledr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "downtown.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dragonsh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dreamwld.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "drgnmst.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "drifto94.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "20M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "driftout.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "drivfrcb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "16K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dstlk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dwi.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "21M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dynablst.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "364K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dynagear.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dyndukeja.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "dynwar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "eightman.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "elevator.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "38K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "elvactr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "eswat.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "excelsra.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "fantasia.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "fantland.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "fghthist.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "fightfev.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "finalb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "fncywld.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "890K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "funkyjet.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "funybubl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gaia.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galaxyfg.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "12M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galpani4.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galpanic.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galpanis.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galpans2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galpans3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "9.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "galspnbl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gangwars.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ganryu.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "20M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gatedoom.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gberet.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "64K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gbusters.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "596K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gdfs.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gforce2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ghostb3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "409K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ghouls.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gigas.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "73K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gigasm2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "75K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gijoe.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gladiatr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "260K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "glass10.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gloc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gng.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "155K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "goldnaxe.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gowcaizr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gprider.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gtmr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gtmr2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gundamex.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gundhara.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gunforc2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gunforce.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "918K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gunmast.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "gunsmoke.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "236K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hachamf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hachoo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hangon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "380K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hangonjr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "76K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hcastle.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "923K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hharry.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "722K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "higemaru.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "31K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hook.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "hotpinbl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "indytemp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "332K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ironclad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jchan.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "20M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jchan2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "21M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jjack.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "43K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jjsquawkb2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jockeygp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "joemacr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jojo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "44M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jojoba.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "52M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jumping.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "490K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jumpkids.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "jumppop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kabukikl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kaiserkn.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "karatour.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "karnovr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kbash.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kbash2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kchamp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "108K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kengo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "696K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kicker.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "49K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kidniki.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "213K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "killbld.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kizuna.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kotm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kotm2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "kungfum.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "90K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lastblad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "27M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lastbld2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "33M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "leds2011.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "730K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lemmings.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "568K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lethalen.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lghost.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lkage.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "77K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "loderndf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "9.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "loffire.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "loht.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "657K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "lomakai.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "226K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "luckywld.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "madgear.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "747K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "madmotor.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "magdrop2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "magdrop3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "9.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "maglord.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "martmast.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "29M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "marvland.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "matmania.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "203K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "matrim.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "80M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mbombrd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mcatadv.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mercs.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mia.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "523K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mikie.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "77K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mirninja.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "missb2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mizubaku.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mmaulers.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mpang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mpatrol.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "24K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "msgundam.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "msword.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mtlchamp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mwarr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "mystwarra.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nam1975.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nbbatman.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ncommand.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nemo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "neobombe.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "neodrift.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "10M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "neogeo11.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nightstru.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ninjamas.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nitd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nmg5.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nrallyx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nspirit.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "572K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "nwarr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "oneshot.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "opwolf3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "7.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "oscar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "265K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "othunderj.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "outrun.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "856K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "outzone.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "930K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "overtop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "408K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pang3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pangpang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pangpoms.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "843K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pbaction.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "77K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pbillrd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "58K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pgm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pipibibs.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "507K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pitfall2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "63K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pitfight.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pktgaldx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "plegends.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pow.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "788K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "powerins.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pspikes.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "punchout.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "161K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "punkshot.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "punkshot2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "pwrinst2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rachero.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "racingb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ragnagrd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "24M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rallyx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rambo3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rastsag2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rchase.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "recalh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ridhero.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ridingf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ringdest.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "12M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "riot.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "riotcity.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rmpgwt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "roadf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "71K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "roboarmy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "robocop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "394K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "robocop2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rodland.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rotd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "75M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rthun2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "rygar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "226K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "savagere.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "scessjoe.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "scinegro.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "scontra.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "sdfight.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "sdgndmps.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "sdodgeb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "sgunner.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "sgunner2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shadfrce.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shadoww.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shdancer.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shinobi.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "462K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shocktr2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "29M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shocktro.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "21M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "shogwarr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "sidepckt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "87K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "slammast.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "snowbro2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "snowbro3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "socbrawl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "soldivid.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "solfigtr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "spang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "634K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "spinmast.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ssideki.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ssideki2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ssideki3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ssideki4.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "ssoldier.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "strhoop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "strider.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "superchs.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "8.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "superman.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "superspy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "suprtrio.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "suratk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "659K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "survarts.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "12M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "svg.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "27M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "swat.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "57K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "swatpolc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "syvalion.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "taotaido.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "tattass.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "teddybb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "82K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "tengai.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "thoop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "thoop2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "thundfox.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "tigeroad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "940K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "tkdensho.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "toki.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "toppyrap.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "879K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "topspeed.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "toutrun.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "trally.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "4.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "travrusa.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "43K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "trojan.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "321K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "trophyh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "trstar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "6.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "tumbleb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "tws96.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "uballoon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "valkyrie.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "vandykeb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "vhunt2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "viofight.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "vsav.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "vsav2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wakuwak7.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wboy.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "88K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "willow.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wizdfire.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wjammers.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wof.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wrally.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "wrally2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "xmen6p.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "fbneo",
+    "roms": "xmen6pu.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/fbneo/",
+    "tamanho": "3.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k2mp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "80M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k2mp2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k2plb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k2plc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k3pl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "80M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k3upl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "78M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k4pls.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "40M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf2k5uni.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "41M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kf10thep.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "41M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof2k4se.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "39M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof10th.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "42M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof94.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "14M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof95.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "17M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof96.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "24M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof96ae20.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "27M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof97.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "29M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof97pls.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "27M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof97xt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "28M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof98.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "40M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof98ae.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "48M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof99.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "77M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof2000.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "80M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof2001.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "78M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof2002.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "80M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "kof",
+    "roms": "kof2003.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/kof/",
+    "tamanho": "82M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mk",
+    "roms": "mk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mk/",
+    "tamanho": "5.2M",
+    "sismin": "mame",
+    "caminho": "/recalbox/share/roms/mame/"
+  },
+  {
+    "sistema": "mk",
+    "roms": "mk2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mk/",
+    "tamanho": "13M",
+    "sismin": "mame",
+    "caminho": "/recalbox/share/roms/mame/"
+  },
+  {
+    "sistema": "mk",
+    "roms": "mk3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mk/",
+    "tamanho": "20M",
+    "sismin": "mame",
+    "caminho": "/recalbox/share/roms/mame/"
+  },
+  {
+    "sistema": "mk",
+    "roms": "umk3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mk/",
+    "tamanho": "21M",
+    "sismin": "mame",
+    "caminho": "/recalbox/share/roms/mame/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "dmnfrnt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "24M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "ms4plus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "62M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "ms5pcb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "73M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "ms5plus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "14M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "18M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug3b6.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "78M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug3h.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "78M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug4.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "62M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug4h.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "62M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug5.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug5b.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslug5h.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "79M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "mslug",
+    "roms": "mslugx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/mslug/",
+    "tamanho": "29M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsh5sp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "81M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "9.7M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "16M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho2sp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "16M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "19M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho4.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "23M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho4sp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "23M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "samurai",
+    "roms": "samsho5.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/samurai/",
+    "tamanho": "81M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "19xx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1941.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1942.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "104K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1943.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "298K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1943kai.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "306K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1943mii.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "306K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1944.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "1945kiii.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "aburner.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "aburner2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "acrobatm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "aerofgt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "agallet.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "airass.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "airattck.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "airbustr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "678K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "airduel.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "890K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "airlbios.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "686K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "alcon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "149K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "alpham2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "androdun.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "arbalest.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "arcadian.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "6.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "argus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "156K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "armedf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "383K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ashura.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "893K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "aso.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "123K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "astrofl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "65K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "asuka.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "649K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "backfirt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "311K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "bakutotu.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "345K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "baryon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "batrider.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "batsugun.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "batsugunsp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "bbakraid.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "bchopper.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "611K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "bgaregga.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "blastoff.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "744K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "blazeon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "blazstar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "bluehawk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "728K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "cairblad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "cawing.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "choplift.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "135K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "chopper.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "414K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "cphd.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "29M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ctomaday.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "cybattlr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "cyvern.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "daioh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dariusgx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dblewing.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ddonpach.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ddp2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dfeveron.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "6.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dimahoo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dogyuun.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "donpachi.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dragnblz.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "16M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "dspirit.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "earthjkr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "721K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ecofghtr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "edf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "eightfrc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "espgal.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "esprade.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "14M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "explbrkr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "fhawk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "470K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "fireshrk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "521K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "fstarfrc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "956K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gaialast.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "galaga.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "102K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "galaga88.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "614K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gallop.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "674K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "galmedes.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "583K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gekiridn.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "6.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "geostorm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gigandesa.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gigawing.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "12M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gpilots.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gradius.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "117K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gradius2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "925K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gradius3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "grdnstrm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "grindstm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gseeker.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "5.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gunbird.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gunbird2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gunfront.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gunlock.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "5.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "guwange.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "gyruss.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "42K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "hellfire.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "369K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "hotdogst.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "imgfight.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "620K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "insectx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "533K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "inthunt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ket.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "lastduel.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "668K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "lasthope.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "lgtnfghtu.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "lresort.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.6M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "lwings.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "223K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "macross.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "macross2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "madshark.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "mazinger.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.8M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "megablst.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "metafox.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "metalb.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "metlhawk.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "mmatrix.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "18M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "mustang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "mysticri.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "neobattl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ordyne.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "p47.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "699K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "parodius.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "phelios.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "prehisle.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "677K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "preisle2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "54M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "progear.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "pulstar.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "20M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "raiden.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "972K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "raiden2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "10M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "raphero.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "6.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "rezon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "robokid.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "607K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "rshark.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "rtype.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "377K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "rtype2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "912K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "rtypeleo.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ryujin.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "s1945.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "5.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "s1945ii.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "s1945iii.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "21M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "s1945p.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "76M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "salamand.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "623K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "samuraia.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "sbomber.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "17M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "sengekis.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "sidearms.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "311K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "skullfng.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "skyalert.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "sonicwi2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "sonicwi3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "spec2k.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "ssmissin.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "stmblade.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "7.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "strahl.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "strkfgtr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "6.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "strkforc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "superx.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.7M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "tdragon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "tdragon2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "thndblst.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "thndrbld.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "tigerh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "95K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "timeplt.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "28K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "truxton.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "565K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "truxton2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "twincobr.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "452K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "typhoon.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "unsquad.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "vangrd2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "54K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "varth.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "vasara.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "15M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "vasara2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "vmetal.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "wingforc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "2.2M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "wolffang.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "wrofaero.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "1.3M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "xevious.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "45K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "xexex.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "4.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "shmups",
+    "roms": "zerowing.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/shmups/",
+    "tamanho": "543K",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "hsf2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "20M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "msh.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "mshvsf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "mvsc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "1.1M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sf2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "3.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sf2ce.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "3.4M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sf2hf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "3.5M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfa.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "7.0M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfa2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfa3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "22M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfiii.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "37M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfiii2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "42M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfiii3.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "67M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sftm.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "31M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sfz2al.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "13M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "sgemf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "16M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "ssf2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "9.9M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "ssf2t.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "11M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "svc.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "81M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "svcplus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "43M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "svcsplus.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "43M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "xmcota.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "street",
+    "roms": "xmvsf.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/street/",
+    "tamanho": "19M",
+    "sismin": "fbneo",
+    "caminho": "/recalbox/share/roms/fbneo/"
+  },
+  {
+    "sistema": "wheroes",
+    "roms": "wh1.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/wheroes/",
+    "tamanho": "6.4M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "wheroes",
+    "roms": "wh2.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/wheroes/",
+    "tamanho": "10M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "wheroes",
+    "roms": "wh2j.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/wheroes/",
+    "tamanho": "12M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  },
+  {
+    "sistema": "wheroes",
+    "roms": "whp.zip",
+    "url": "https://sergiogracas.com/emular/repositorio/wheroes/",
+    "tamanho": "16M",
+    "sismin": "neogeo",
+    "caminho": "/recalbox/share/roms/neogeo/"
+  }
+]
